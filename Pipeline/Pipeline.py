@@ -249,12 +249,12 @@ def main():
         if n in milestone_times:
             print(f"{n} images -> {milestone_times[n]:.4f} sec")
 
-    print("\n✅ DONE")
+    print("\n DONE")
     print(f"Mode: {'WITH classifier' if USE_CLASSIFIER else 'WITHOUT classifier'}")
     print(f"Total Time: {end - start:.4f} sec")
     print(f"Avg Time/Image: {(end - start)/expected:.6f} sec")
 
-print("----------------------------✅ Start ! ---------------------------------")
+print("---------------------------- Start ! ---------------------------------")
 
 if __name__ == "__main__":
     main()
