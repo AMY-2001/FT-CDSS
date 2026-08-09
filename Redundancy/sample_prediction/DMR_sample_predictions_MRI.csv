@@ -1,0 +1,471 @@
+index,relative_path,true_label,model_1_prediction,model_2_prediction,dmr_agreement,dmr_disagreement,dmr_prediction
+0,No Tumor/Te-no_0013.jpg,0,0,0,1,0,0
+1,No Tumor/Te-no_0096.jpg,0,0,0,1,0,0
+2,No Tumor/Te-no_0114.jpg,0,0,0,1,0,0
+3,No Tumor/Te-no_0118.jpg,0,0,0,1,0,0
+4,No Tumor/Te-no_0120.jpg,0,0,0,1,0,0
+5,No Tumor/Te-no_0130.jpg,0,0,0,1,0,0
+6,No Tumor/Te-no_0131.jpg,0,0,0,1,0,0
+7,No Tumor/Te-no_0135.jpg,0,0,0,1,0,0
+8,No Tumor/Te-no_0138.jpg,0,0,0,1,0,0
+9,No Tumor/Te-no_0141.jpg,0,0,0,1,0,0
+10,No Tumor/Te-no_0142.jpg,0,0,0,1,0,0
+11,No Tumor/Te-no_0145.jpg,0,0,0,1,0,0
+12,No Tumor/Te-no_0146.jpg,0,0,0,1,0,0
+13,No Tumor/Te-no_0161.jpg,0,0,0,1,0,0
+14,No Tumor/Te-no_0163.jpg,0,0,0,1,0,0
+15,No Tumor/Te-no_0175.jpg,0,0,0,1,0,0
+16,No Tumor/Te-no_0178.jpg,0,0,0,1,0,0
+17,No Tumor/Te-no_0186.jpg,0,0,0,1,0,0
+18,No Tumor/Te-no_0189.jpg,0,0,0,1,0,0
+19,No Tumor/Te-no_0191.jpg,0,0,0,1,0,0
+20,No Tumor/Te-no_0198.jpg,0,0,0,1,0,0
+21,No Tumor/Te-no_0206.jpg,0,0,0,1,0,0
+22,No Tumor/Te-no_0209.jpg,0,0,0,1,0,0
+23,No Tumor/Te-no_0217.jpg,0,0,0,1,0,0
+24,No Tumor/Te-no_0224.jpg,0,0,0,1,0,0
+25,No Tumor/Te-no_0228.jpg,0,0,0,1,0,0
+26,No Tumor/Te-no_0229.jpg,0,0,0,1,0,0
+27,No Tumor/Te-no_0234.jpg,0,0,0,1,0,0
+28,No Tumor/Te-no_0247.jpg,0,0,0,1,0,0
+29,No Tumor/Te-no_0255.jpg,0,0,0,1,0,0
+30,No Tumor/Te-no_0257.jpg,0,0,0,1,0,0
+31,No Tumor/Te-no_0262.jpg,0,0,0,1,0,0
+32,No Tumor/Te-no_0283.jpg,0,0,0,1,0,0
+33,No Tumor/Te-no_0285.jpg,0,0,0,1,0,0
+34,No Tumor/Te-no_0292.jpg,0,0,0,1,0,0
+35,No Tumor/Te-no_0313.jpg,0,0,0,1,0,0
+36,No Tumor/Te-no_0318.jpg,0,0,0,1,0,0
+37,No Tumor/Te-no_0323.jpg,0,0,0,1,0,0
+38,No Tumor/Te-no_0326.jpg,0,0,0,1,0,0
+39,No Tumor/Te-no_0327.jpg,0,0,0,1,0,0
+40,No Tumor/Te-no_0330.jpg,0,0,0,1,0,0
+41,No Tumor/Te-no_0333.jpg,0,0,0,1,0,0
+42,No Tumor/Te-no_0334.jpg,0,0,0,1,0,0
+43,No Tumor/Te-no_0338.jpg,0,0,0,1,0,0
+44,No Tumor/Te-no_0350.jpg,0,0,0,1,0,0
+45,No Tumor/Te-no_0365.jpg,0,0,0,1,0,0
+46,No Tumor/Te-no_0393.jpg,0,0,0,1,0,0
+47,No Tumor/Tr-no_0030.jpg,0,0,0,1,0,0
+48,No Tumor/Tr-no_0042.jpg,0,0,0,1,0,0
+49,No Tumor/Tr-no_0044.jpg,0,0,0,1,0,0
+50,No Tumor/Tr-no_0046.jpg,0,0,0,1,0,0
+51,No Tumor/Tr-no_0052.jpg,0,0,0,1,0,0
+52,No Tumor/Tr-no_0055.jpg,0,0,0,1,0,0
+53,No Tumor/Tr-no_0061.jpg,0,0,0,1,0,0
+54,No Tumor/Tr-no_0063.jpg,0,0,0,1,0,0
+55,No Tumor/Tr-no_0064.jpg,0,0,0,1,0,0
+56,No Tumor/Tr-no_0066.jpg,0,0,0,1,0,0
+57,No Tumor/Tr-no_0071.jpg,0,0,0,1,0,0
+58,No Tumor/Tr-no_0082.jpg,0,0,0,1,0,0
+59,No Tumor/Tr-no_0085.jpg,0,0,0,1,0,0
+60,No Tumor/Tr-no_0088.jpg,0,0,0,1,0,0
+61,No Tumor/Tr-no_0096.jpg,0,0,0,1,0,0
+62,No Tumor/Tr-no_0100.jpg,0,0,0,1,0,0
+63,No Tumor/Tr-no_0109.jpg,0,0,0,1,0,0
+64,No Tumor/Tr-no_0133.jpg,0,0,0,1,0,0
+65,No Tumor/Tr-no_0134.jpg,0,0,0,1,0,0
+66,No Tumor/Tr-no_0141.jpg,0,0,0,1,0,0
+67,No Tumor/Tr-no_0147.jpg,0,0,0,1,0,0
+68,No Tumor/Tr-no_0158.jpg,0,0,0,1,0,0
+69,No Tumor/Tr-no_0196.jpg,0,0,0,1,0,0
+70,No Tumor/Tr-no_0206.jpg,0,0,0,1,0,0
+71,No Tumor/Tr-no_0233.jpg,0,0,0,1,0,0
+72,No Tumor/Tr-no_0259.jpg,0,0,0,1,0,0
+73,No Tumor/Tr-no_0271.jpg,0,0,0,1,0,0
+74,No Tumor/Tr-no_0287.jpg,0,0,0,1,0,0
+75,No Tumor/Tr-no_0299.jpg,0,0,0,1,0,0
+76,No Tumor/Tr-no_0359.jpg,0,0,0,1,0,0
+77,No Tumor/Tr-no_0370.jpg,0,0,0,1,0,0
+78,No Tumor/Tr-no_0372.jpg,0,0,0,1,0,0
+79,No Tumor/Tr-no_0376.jpg,0,0,0,1,0,0
+80,No Tumor/Tr-no_0383.jpg,0,0,0,1,0,0
+81,No Tumor/Tr-no_0405.jpg,0,0,0,1,0,0
+82,No Tumor/Tr-no_0412.jpg,0,0,0,1,0,0
+83,No Tumor/Tr-no_0416.jpg,0,0,0,1,0,0
+84,No Tumor/Tr-no_0454.jpg,0,0,0,1,0,0
+85,No Tumor/Tr-no_0459.jpg,0,0,0,1,0,0
+86,No Tumor/Tr-no_0460.jpg,0,0,0,1,0,0
+87,No Tumor/Tr-no_0461.jpg,0,0,0,1,0,0
+88,No Tumor/Tr-no_0472.jpg,0,0,0,1,0,0
+89,No Tumor/Tr-no_0485.jpg,0,0,0,1,0,0
+90,No Tumor/Tr-no_0492.jpg,0,0,0,1,0,0
+91,No Tumor/Tr-no_0514.jpg,0,0,0,1,0,0
+92,No Tumor/Tr-no_0519.jpg,0,0,0,1,0,0
+93,No Tumor/Tr-no_0523.jpg,0,0,0,1,0,0
+94,No Tumor/Tr-no_0524.jpg,0,0,0,1,0,0
+95,No Tumor/Tr-no_0534.jpg,0,0,0,1,0,0
+96,No Tumor/Tr-no_0535.jpg,0,0,0,1,0,0
+97,No Tumor/Tr-no_0541.jpg,0,0,0,1,0,0
+98,No Tumor/Tr-no_0553.jpg,0,0,0,1,0,0
+99,No Tumor/Tr-no_0568.jpg,0,0,0,1,0,0
+100,No Tumor/Tr-no_0590.jpg,0,0,0,1,0,0
+101,No Tumor/Tr-no_0595.jpg,0,0,0,1,0,0
+102,No Tumor/Tr-no_0605.jpg,0,0,0,1,0,0
+103,No Tumor/Tr-no_0617.jpg,0,0,0,1,0,0
+104,No Tumor/Tr-no_0620.jpg,0,0,0,1,0,0
+105,No Tumor/Tr-no_0629.jpg,0,0,0,1,0,0
+106,No Tumor/Tr-no_0634.jpg,0,0,0,1,0,0
+107,No Tumor/Tr-no_0638.jpg,0,0,0,1,0,0
+108,No Tumor/Tr-no_0647.jpg,0,0,0,1,0,0
+109,No Tumor/Tr-no_0654.jpg,0,0,0,1,0,0
+110,No Tumor/Tr-no_0675.jpg,0,0,0,1,0,0
+111,No Tumor/Tr-no_0678.jpg,0,0,0,1,0,0
+112,No Tumor/Tr-no_0681.jpg,0,0,0,1,0,0
+113,No Tumor/Tr-no_0685.jpg,0,0,0,1,0,0
+114,No Tumor/Tr-no_0688.jpg,0,0,0,1,0,0
+115,No Tumor/Tr-no_0693.jpg,0,0,0,1,0,0
+116,No Tumor/Tr-no_0694.jpg,0,0,0,1,0,0
+117,No Tumor/Tr-no_0698.jpg,0,0,0,1,0,0
+118,No Tumor/Tr-no_0699.jpg,0,0,0,1,0,0
+119,No Tumor/Tr-no_0711.jpg,0,0,0,1,0,0
+120,No Tumor/Tr-no_0720.jpg,0,0,0,1,0,0
+121,No Tumor/Tr-no_0725.jpg,0,0,0,1,0,0
+122,No Tumor/Tr-no_0728.jpg,0,0,0,1,0,0
+123,No Tumor/Tr-no_0729.jpg,0,0,0,1,0,0
+124,No Tumor/Tr-no_0735.jpg,0,0,0,1,0,0
+125,No Tumor/Tr-no_0744.jpg,0,0,0,1,0,0
+126,No Tumor/Tr-no_0756.jpg,0,0,0,1,0,0
+127,No Tumor/Tr-no_0777.jpg,0,0,0,1,0,0
+128,No Tumor/Tr-no_0790.jpg,0,0,0,1,0,0
+129,No Tumor/Tr-no_0792.jpg,0,0,0,1,0,0
+130,No Tumor/Tr-no_0799.jpg,0,0,0,1,0,0
+131,No Tumor/Tr-no_0800.jpg,0,0,0,1,0,0
+132,No Tumor/Tr-no_0801.jpg,0,0,0,1,0,0
+133,No Tumor/Tr-no_0804.jpg,0,0,0,1,0,0
+134,No Tumor/Tr-no_0815.jpg,0,0,0,1,0,0
+135,No Tumor/Tr-no_0816.jpg,0,0,0,1,0,0
+136,No Tumor/Tr-no_0821.jpg,0,0,0,1,0,0
+137,No Tumor/Tr-no_0827.jpg,0,0,0,1,0,0
+138,No Tumor/Tr-no_0831.jpg,0,0,0,1,0,0
+139,No Tumor/Tr-no_0837.jpg,0,0,0,1,0,0
+140,No Tumor/Tr-no_0842.jpg,0,0,0,1,0,0
+141,No Tumor/Tr-no_0861.jpg,0,0,0,1,0,0
+142,No Tumor/Tr-no_0875.jpg,0,0,0,1,0,0
+143,No Tumor/Tr-no_0880.jpg,0,0,0,1,0,0
+144,No Tumor/Tr-no_0882.jpg,0,0,0,1,0,0
+145,No Tumor/Tr-no_0887.jpg,0,0,0,1,0,0
+146,No Tumor/Tr-no_0895.jpg,0,0,0,1,0,0
+147,No Tumor/Tr-no_0896.jpg,0,0,0,1,0,0
+148,No Tumor/Tr-no_0903.jpg,0,0,0,1,0,0
+149,No Tumor/Tr-no_0904.jpg,0,0,0,1,0,0
+150,No Tumor/Tr-no_0905.jpg,0,0,0,1,0,0
+151,No Tumor/Tr-no_0907.jpg,0,0,0,1,0,0
+152,No Tumor/Tr-no_0911.jpg,0,0,0,1,0,0
+153,No Tumor/Tr-no_0922.jpg,0,0,0,1,0,0
+154,No Tumor/Tr-no_0925.jpg,0,0,0,1,0,0
+155,No Tumor/Tr-no_0937.jpg,0,0,0,1,0,0
+156,No Tumor/Tr-no_0946.jpg,0,0,0,1,0,0
+157,No Tumor/Tr-no_0949.jpg,0,0,0,1,0,0
+158,No Tumor/Tr-no_0965.jpg,0,0,0,1,0,0
+159,No Tumor/Tr-no_0988.jpg,0,0,0,1,0,0
+160,No Tumor/Tr-no_0991.jpg,0,0,0,1,0,0
+161,No Tumor/Tr-no_0997.jpg,0,0,0,1,0,0
+162,No Tumor/Tr-no_1004.jpg,0,0,0,1,0,0
+163,No Tumor/Tr-no_1007.jpg,0,0,0,1,0,0
+164,No Tumor/Tr-no_1024.jpg,0,0,0,1,0,0
+165,No Tumor/Tr-no_1031.jpg,0,0,0,1,0,0
+166,No Tumor/Tr-no_1032.jpg,0,0,0,1,0,0
+167,No Tumor/Tr-no_1037.jpg,0,0,0,1,0,0
+168,No Tumor/Tr-no_1044.jpg,0,0,0,1,0,0
+169,No Tumor/Tr-no_1061.jpg,0,0,0,1,0,0
+170,No Tumor/Tr-no_1065.jpg,0,0,0,1,0,0
+171,No Tumor/Tr-no_1111.jpg,0,0,0,1,0,0
+172,No Tumor/Tr-no_1113.jpg,0,0,0,1,0,0
+173,No Tumor/Tr-no_1120.jpg,0,0,0,1,0,0
+174,No Tumor/Tr-no_1124.jpg,0,0,0,1,0,0
+175,No Tumor/Tr-no_1132.jpg,0,0,0,1,0,0
+176,No Tumor/Tr-no_1184.jpg,0,0,0,1,0,0
+177,No Tumor/Tr-no_1189.jpg,0,0,0,1,0,0
+178,No Tumor/Tr-no_1217.jpg,0,0,0,1,0,0
+179,No Tumor/Tr-no_1243.jpg,0,0,0,1,0,0
+180,No Tumor/Tr-no_1245.jpg,0,0,0,1,0,0
+181,No Tumor/Tr-no_1247.jpg,0,0,0,1,0,0
+182,No Tumor/Tr-no_1252.jpg,0,0,0,1,0,0
+183,No Tumor/Tr-no_1266.jpg,0,0,0,1,0,0
+184,No Tumor/Tr-no_1278.jpg,0,0,0,1,0,0
+185,No Tumor/Tr-no_1293.jpg,0,0,0,1,0,0
+186,No Tumor/Tr-no_1298.jpg,0,0,0,1,0,0
+187,No Tumor/Tr-no_1303.jpg,0,0,0,1,0,0
+188,No Tumor/Tr-no_1307.jpg,0,0,0,1,0,0
+189,No Tumor/Tr-no_1318.jpg,0,0,0,1,0,0
+190,No Tumor/Tr-no_1321.jpg,0,0,0,1,0,0
+191,No Tumor/Tr-no_1330.jpg,0,0,0,1,0,0
+192,No Tumor/Tr-no_1346.jpg,0,0,0,1,0,0
+193,No Tumor/Tr-no_1357.jpg,0,0,0,1,0,0
+194,No Tumor/Tr-no_1358.jpg,0,0,0,1,0,0
+195,No Tumor/Tr-no_1359.jpg,0,0,0,1,0,0
+196,No Tumor/Tr-no_1369.jpg,0,0,0,1,0,0
+197,No Tumor/Tr-no_1370.jpg,0,0,0,1,0,0
+198,No Tumor/Tr-no_1375.jpg,0,0,0,1,0,0
+199,No Tumor/Tr-no_1377.jpg,0,0,0,1,0,0
+200,No Tumor/Tr-no_1384.jpg,0,0,0,1,0,0
+201,No Tumor/Tr-no_1388.jpg,0,0,0,1,0,0
+202,No Tumor/Tr-no_1389.jpg,0,0,0,1,0,0
+203,No Tumor/Tr-no_1406.jpg,0,0,0,1,0,0
+204,No Tumor/Tr-no_1408.jpg,0,0,0,1,0,0
+205,No Tumor/Tr-no_1420.jpg,0,0,0,1,0,0
+206,No Tumor/Tr-no_1422.jpg,0,0,0,1,0,0
+207,No Tumor/Tr-no_1424.jpg,0,0,0,1,0,0
+208,No Tumor/Tr-no_1433.jpg,0,0,0,1,0,0
+209,No Tumor/Tr-no_1435.jpg,0,0,0,1,0,0
+210,No Tumor/Tr-no_1447.jpg,0,0,0,1,0,0
+211,No Tumor/Tr-no_1459.jpg,0,0,0,1,0,0
+212,No Tumor/Tr-no_1475.jpg,0,0,0,1,0,0
+213,No Tumor/Tr-no_1483.jpg,0,0,0,1,0,0
+214,No Tumor/Tr-no_1488.jpg,0,0,0,1,0,0
+215,No Tumor/Tr-no_1493.jpg,0,0,0,1,0,0
+216,No Tumor/Tr-no_1527.jpg,0,0,0,1,0,0
+217,No Tumor/Tr-no_1533.jpg,0,0,0,1,0,0
+218,No Tumor/Tr-no_1535.jpg,0,0,0,1,0,0
+219,No Tumor/Tr-no_1542.jpg,0,0,0,1,0,0
+220,No Tumor/Tr-no_1549.jpg,0,0,0,1,0,0
+221,No Tumor/Tr-no_1550.jpg,0,0,0,1,0,0
+222,No Tumor/Tr-no_1559.jpg,0,0,0,1,0,0
+223,No Tumor/Tr-no_1562.jpg,0,0,0,1,0,0
+224,No Tumor/Tr-no_1566.jpg,0,0,0,1,0,0
+225,No Tumor/Tr-no_1568.jpg,0,0,0,1,0,0
+226,No Tumor/Tr-no_1569.jpg,0,0,0,1,0,0
+227,No Tumor/Tr-no_1573.jpg,0,0,0,1,0,0
+228,No Tumor/Tr-no_1577.jpg,0,0,0,1,0,0
+229,No Tumor/Tr-no_1578.jpg,0,0,0,1,0,0
+230,No Tumor/Tr-no_1581.jpg,0,0,0,1,0,0
+231,No Tumor/Tr-no_1585.jpg,0,0,0,1,0,0
+232,No Tumor/Tr-no_1587.jpg,0,0,0,1,0,0
+233,No Tumor/Tr-no_1589.jpg,0,0,0,1,0,0
+234,No Tumor/Tr-no_1593.jpg,0,0,0,1,0,0
+235,Tumor/tumor_00004.png,1,1,1,1,0,1
+236,Tumor/tumor_00054.png,1,1,1,1,0,1
+237,Tumor/tumor_00067.png,1,1,0,0,1,-1
+238,Tumor/tumor_00100.png,1,1,1,1,0,1
+239,Tumor/tumor_00105.png,1,1,0,0,1,-1
+240,Tumor/tumor_00111.png,1,1,1,1,0,1
+241,Tumor/tumor_00116.png,1,1,0,0,1,-1
+242,Tumor/tumor_00134.png,1,1,1,1,0,1
+243,Tumor/tumor_00139.png,1,1,0,0,1,-1
+244,Tumor/tumor_00151.png,1,1,0,0,1,-1
+245,Tumor/tumor_00183.png,1,1,0,0,1,-1
+246,Tumor/tumor_00196.png,1,1,1,1,0,1
+247,Tumor/tumor_00199.png,1,1,1,1,0,1
+248,Tumor/tumor_00203.png,1,1,0,0,1,-1
+249,Tumor/tumor_00207.png,1,1,1,1,0,1
+250,Tumor/tumor_00233.png,1,1,0,0,1,-1
+251,Tumor/tumor_00240.png,1,1,1,1,0,1
+252,Tumor/tumor_00252.png,1,1,1,1,0,1
+253,Tumor/tumor_00259.png,1,1,1,1,0,1
+254,Tumor/tumor_00265.png,1,1,1,1,0,1
+255,Tumor/tumor_00266.png,1,1,0,0,1,-1
+256,Tumor/tumor_00270.png,1,1,0,0,1,-1
+257,Tumor/tumor_00317.png,1,1,1,1,0,1
+258,Tumor/tumor_00320.png,1,1,0,0,1,-1
+259,Tumor/tumor_00341.png,1,1,1,1,0,1
+260,Tumor/tumor_00349.png,1,1,1,1,0,1
+261,Tumor/tumor_00370.png,1,1,1,1,0,1
+262,Tumor/tumor_00374.png,1,1,1,1,0,1
+263,Tumor/tumor_00377.png,1,1,1,1,0,1
+264,Tumor/tumor_00385.png,1,1,1,1,0,1
+265,Tumor/tumor_00393.png,1,1,0,0,1,-1
+266,Tumor/tumor_00403.png,1,1,1,1,0,1
+267,Tumor/tumor_00413.png,1,1,1,1,0,1
+268,Tumor/tumor_00415.png,1,1,1,1,0,1
+269,Tumor/tumor_00442.png,1,1,1,1,0,1
+270,Tumor/tumor_00444.png,1,1,1,1,0,1
+271,Tumor/tumor_00470.png,1,1,1,1,0,1
+272,Tumor/tumor_00480.png,1,1,0,0,1,-1
+273,Tumor/tumor_00488.png,1,1,1,1,0,1
+274,Tumor/tumor_00507.png,1,1,0,0,1,-1
+275,Tumor/tumor_00529.png,1,1,1,1,0,1
+276,Tumor/tumor_00533.png,1,1,1,1,0,1
+277,Tumor/tumor_00535.png,1,1,0,0,1,-1
+278,Tumor/tumor_00553.png,1,1,1,1,0,1
+279,Tumor/tumor_00558.png,1,1,0,0,1,-1
+280,Tumor/tumor_00571.png,1,1,0,0,1,-1
+281,Tumor/tumor_00573.png,1,1,0,0,1,-1
+282,Tumor/tumor_00575.png,1,1,1,1,0,1
+283,Tumor/tumor_00613.png,1,1,0,0,1,-1
+284,Tumor/tumor_00615.png,1,1,1,1,0,1
+285,Tumor/tumor_00620.png,1,1,1,1,0,1
+286,Tumor/tumor_00621.png,1,1,1,1,0,1
+287,Tumor/tumor_00673.png,1,1,1,1,0,1
+288,Tumor/tumor_00701.png,1,1,1,1,0,1
+289,Tumor/tumor_00738.png,1,1,0,0,1,-1
+290,Tumor/tumor_00740.png,1,1,1,1,0,1
+291,Tumor/tumor_00747.png,1,1,0,0,1,-1
+292,Tumor/tumor_00755.png,1,1,1,1,0,1
+293,Tumor/tumor_00761.png,1,1,1,1,0,1
+294,Tumor/tumor_00785.png,1,1,0,0,1,-1
+295,Tumor/tumor_00798.png,1,1,1,1,0,1
+296,Tumor/tumor_00818.png,1,1,0,0,1,-1
+297,Tumor/tumor_00822.png,1,1,0,0,1,-1
+298,Tumor/tumor_00858.png,1,1,0,0,1,-1
+299,Tumor/tumor_00863.png,1,1,0,0,1,-1
+300,Tumor/tumor_00874.png,1,1,0,0,1,-1
+301,Tumor/tumor_00892.png,1,1,1,1,0,1
+302,Tumor/tumor_00906.png,1,1,0,0,1,-1
+303,Tumor/tumor_00914.png,1,1,0,0,1,-1
+304,Tumor/tumor_00915.png,1,1,1,1,0,1
+305,Tumor/tumor_00921.png,1,1,1,1,0,1
+306,Tumor/tumor_00935.png,1,1,0,0,1,-1
+307,Tumor/tumor_00960.png,1,1,1,1,0,1
+308,Tumor/tumor_00974.png,1,1,1,1,0,1
+309,Tumor/tumor_00986.png,1,1,0,0,1,-1
+310,Tumor/tumor_00993.png,1,1,1,1,0,1
+311,Tumor/tumor_01006.png,1,1,0,0,1,-1
+312,Tumor/tumor_01009.png,1,1,0,0,1,-1
+313,Tumor/tumor_01039.png,1,1,1,1,0,1
+314,Tumor/tumor_01041.png,1,1,1,1,0,1
+315,Tumor/tumor_01061.png,1,1,1,1,0,1
+316,Tumor/tumor_01078.png,1,1,0,0,1,-1
+317,Tumor/tumor_01085.png,1,1,0,0,1,-1
+318,Tumor/tumor_01098.png,1,1,0,0,1,-1
+319,Tumor/tumor_01103.png,1,1,1,1,0,1
+320,Tumor/tumor_01116.png,1,1,1,1,0,1
+321,Tumor/tumor_01133.png,1,1,1,1,0,1
+322,Tumor/tumor_01134.png,1,1,1,1,0,1
+323,Tumor/tumor_01135.png,1,1,0,0,1,-1
+324,Tumor/tumor_01136.png,1,1,1,1,0,1
+325,Tumor/tumor_01151.png,1,1,1,1,0,1
+326,Tumor/tumor_01154.png,1,1,1,1,0,1
+327,Tumor/tumor_01159.png,1,1,1,1,0,1
+328,Tumor/tumor_01162.png,1,1,1,1,0,1
+329,Tumor/tumor_01164.png,1,1,1,1,0,1
+330,Tumor/tumor_01170.png,1,1,0,0,1,-1
+331,Tumor/tumor_01173.png,1,1,1,1,0,1
+332,Tumor/tumor_01176.png,1,1,1,1,0,1
+333,Tumor/tumor_01203.png,1,1,1,1,0,1
+334,Tumor/tumor_01214.png,1,1,0,0,1,-1
+335,Tumor/tumor_01215.png,1,1,1,1,0,1
+336,Tumor/tumor_01223.png,1,1,1,1,0,1
+337,Tumor/tumor_01248.png,1,1,1,1,0,1
+338,Tumor/tumor_01254.png,1,1,1,1,0,1
+339,Tumor/tumor_01279.png,1,1,0,0,1,-1
+340,Tumor/tumor_01282.png,1,1,1,1,0,1
+341,Tumor/tumor_01301.png,1,1,1,1,0,1
+342,Tumor/tumor_01308.png,1,1,1,1,0,1
+343,Tumor/tumor_01325.png,1,1,1,1,0,1
+344,Tumor/tumor_01329.png,1,1,0,0,1,-1
+345,Tumor/tumor_01341.png,1,1,1,1,0,1
+346,Tumor/tumor_01357.png,1,1,1,1,0,1
+347,Tumor/tumor_01362.png,1,1,0,0,1,-1
+348,Tumor/tumor_01365.png,1,1,0,0,1,-1
+349,Tumor/tumor_01372.png,1,1,1,1,0,1
+350,Tumor/tumor_01388.png,1,1,1,1,0,1
+351,Tumor/tumor_01390.png,1,1,0,0,1,-1
+352,Tumor/tumor_01395.png,1,1,1,1,0,1
+353,Tumor/tumor_01397.png,1,1,0,0,1,-1
+354,Tumor/tumor_01403.png,1,1,1,1,0,1
+355,Tumor/tumor_01408.png,1,1,0,0,1,-1
+356,Tumor/tumor_01423.png,1,1,1,1,0,1
+357,Tumor/tumor_01424.png,1,1,0,0,1,-1
+358,Tumor/tumor_01448.png,1,1,1,1,0,1
+359,Tumor/tumor_01454.png,1,1,0,0,1,-1
+360,Tumor/tumor_01475.png,1,1,1,1,0,1
+361,Tumor/tumor_01490.png,1,1,1,1,0,1
+362,Tumor/tumor_01533.png,1,1,1,1,0,1
+363,Tumor/tumor_01545.png,1,1,0,0,1,-1
+364,Tumor/tumor_01552.png,1,1,0,0,1,-1
+365,Tumor/tumor_01554.png,1,1,1,1,0,1
+366,Tumor/tumor_01560.png,1,1,1,1,0,1
+367,Tumor/tumor_01561.png,1,1,0,0,1,-1
+368,Tumor/tumor_01588.png,1,1,0,0,1,-1
+369,Tumor/tumor_01601.png,1,1,1,1,0,1
+370,Tumor/tumor_01606.png,1,1,1,1,0,1
+371,Tumor/tumor_01616.png,1,0,0,1,0,0
+372,Tumor/tumor_01636.png,1,1,1,1,0,1
+373,Tumor/tumor_01691.png,1,1,0,0,1,-1
+374,Tumor/tumor_01693.png,1,1,1,1,0,1
+375,Tumor/tumor_01697.png,1,1,1,1,0,1
+376,Tumor/tumor_01701.png,1,1,1,1,0,1
+377,Tumor/tumor_01703.png,1,1,0,0,1,-1
+378,Tumor/tumor_01716.png,1,1,0,0,1,-1
+379,Tumor/tumor_01719.png,1,1,0,0,1,-1
+380,Tumor/tumor_01727.png,1,1,0,0,1,-1
+381,Tumor/tumor_01761.png,1,1,0,0,1,-1
+382,Tumor/tumor_01771.png,1,1,1,1,0,1
+383,Tumor/tumor_01782.png,1,1,1,1,0,1
+384,Tumor/tumor_01784.png,1,1,0,0,1,-1
+385,Tumor/tumor_01860.png,1,1,0,0,1,-1
+386,Tumor/tumor_01877.png,1,1,1,1,0,1
+387,Tumor/tumor_01878.png,1,1,0,0,1,-1
+388,Tumor/tumor_01885.png,1,1,1,1,0,1
+389,Tumor/tumor_01891.png,1,1,1,1,0,1
+390,Tumor/tumor_01908.png,1,1,0,0,1,-1
+391,Tumor/tumor_01939.png,1,1,0,0,1,-1
+392,Tumor/tumor_01952.png,1,1,0,0,1,-1
+393,Tumor/tumor_01959.png,1,1,0,0,1,-1
+394,Tumor/tumor_01960.png,1,1,1,1,0,1
+395,Tumor/tumor_01977.png,1,1,1,1,0,1
+396,Tumor/tumor_01984.png,1,1,1,1,0,1
+397,Tumor/tumor_01985.png,1,1,1,1,0,1
+398,Tumor/tumor_01993.png,1,1,1,1,0,1
+399,Tumor/tumor_02002.png,1,1,1,1,0,1
+400,Tumor/tumor_02009.png,1,1,0,0,1,-1
+401,Tumor/tumor_02013.png,1,1,1,1,0,1
+402,Tumor/tumor_02040.png,1,1,1,1,0,1
+403,Tumor/tumor_02044.png,1,1,0,0,1,-1
+404,Tumor/tumor_02060.png,1,1,0,0,1,-1
+405,Tumor/tumor_02067.png,1,1,1,1,0,1
+406,Tumor/tumor_02081.png,1,1,0,0,1,-1
+407,Tumor/tumor_02082.png,1,1,0,0,1,-1
+408,Tumor/tumor_02094.png,1,1,1,1,0,1
+409,Tumor/tumor_02125.png,1,1,1,1,0,1
+410,Tumor/tumor_02128.png,1,1,0,0,1,-1
+411,Tumor/tumor_02134.png,1,1,0,0,1,-1
+412,Tumor/tumor_02163.png,1,1,0,0,1,-1
+413,Tumor/tumor_02168.png,1,1,1,1,0,1
+414,Tumor/tumor_02171.png,1,1,1,1,0,1
+415,Tumor/tumor_02190.png,1,1,1,1,0,1
+416,Tumor/tumor_02202.png,1,1,1,1,0,1
+417,Tumor/tumor_02225.png,1,1,0,0,1,-1
+418,Tumor/tumor_02231.png,1,1,0,0,1,-1
+419,Tumor/tumor_02236.png,1,1,0,0,1,-1
+420,Tumor/tumor_02244.png,1,1,1,1,0,1
+421,Tumor/tumor_02248.png,1,1,0,0,1,-1
+422,Tumor/tumor_02254.png,1,1,0,0,1,-1
+423,Tumor/tumor_02284.png,1,1,0,0,1,-1
+424,Tumor/tumor_02285.png,1,1,1,1,0,1
+425,Tumor/tumor_02312.png,1,1,1,1,0,1
+426,Tumor/tumor_02313.png,1,1,0,0,1,-1
+427,Tumor/tumor_02352.png,1,1,1,1,0,1
+428,Tumor/tumor_02364.png,1,1,0,0,1,-1
+429,Tumor/tumor_02373.png,1,1,0,0,1,-1
+430,Tumor/tumor_02417.png,1,1,1,1,0,1
+431,Tumor/tumor_02427.png,1,1,1,1,0,1
+432,Tumor/tumor_02437.png,1,1,1,1,0,1
+433,Tumor/tumor_02438.png,1,1,1,1,0,1
+434,Tumor/tumor_02457.png,1,1,0,0,1,-1
+435,Tumor/tumor_02464.png,1,1,1,1,0,1
+436,Tumor/tumor_02469.png,1,1,0,0,1,-1
+437,Tumor/tumor_02471.png,1,1,1,1,0,1
+438,Tumor/tumor_02473.png,1,1,1,1,0,1
+439,Tumor/tumor_02476.png,1,1,0,0,1,-1
+440,Tumor/tumor_02489.png,1,1,1,1,0,1
+441,Tumor/tumor_02504.png,1,1,0,0,1,-1
+442,Tumor/tumor_02510.png,1,1,0,0,1,-1
+443,Tumor/tumor_02530.png,1,1,0,0,1,-1
+444,Tumor/tumor_02532.png,1,1,0,0,1,-1
+445,Tumor/tumor_02540.png,1,1,1,1,0,1
+446,Tumor/tumor_02570.png,1,1,0,0,1,-1
+447,Tumor/tumor_02572.png,1,1,1,1,0,1
+448,Tumor/tumor_02592.png,1,1,0,0,1,-1
+449,Tumor/tumor_02617.png,1,1,1,1,0,1
+450,Tumor/tumor_02648.png,1,1,1,1,0,1
+451,Tumor/tumor_02672.png,1,1,0,0,1,-1
+452,Tumor/tumor_02701.png,1,1,0,0,1,-1
+453,Tumor/tumor_02702.png,1,1,1,1,0,1
+454,Tumor/tumor_02715.png,1,1,1,1,0,1
+455,Tumor/tumor_02728.png,1,1,1,1,0,1
+456,Tumor/tumor_02731.png,1,1,1,1,0,1
+457,Tumor/tumor_02739.png,1,1,0,0,1,-1
+458,Tumor/tumor_02783.png,1,1,0,0,1,-1
+459,Tumor/tumor_02815.png,1,1,1,1,0,1
+460,Tumor/tumor_02829.png,1,1,1,1,0,1
+461,Tumor/tumor_02916.png,1,1,0,0,1,-1
+462,Tumor/tumor_02927.png,1,1,0,0,1,-1
+463,Tumor/tumor_02943.png,1,0,0,1,0,0
+464,Tumor/tumor_02994.png,1,1,1,1,0,1
+465,Tumor/tumor_02996.png,1,1,0,0,1,-1
+466,Tumor/tumor_03008.png,1,1,1,1,0,1
+467,Tumor/tumor_03031.png,1,1,1,1,0,1
+468,Tumor/tumor_03042.png,1,1,1,1,0,1
+469,Tumor/tumor_03059.png,1,1,0,0,1,-1
