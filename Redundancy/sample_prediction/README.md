@@ -170,4 +170,42 @@ verify the reported agreement statistics.
 
 For Hybrid redundancy, comparing "model_1_prediction" and
 "model_2_prediction" identifies whether the DMR or TMR path was used.
+_______________________________________________________________________
+MODEL REPLICA DEFINITIONS
+For the fault-injection experiments, the model replicas used in the
+redundancy architectures have the following roles:
+
+- Model 1:
+  Fault-free (pristine) quantized CNN model.
+
+- Model 2:
+  Fault-injected quantized CNN model.
+
+- Model 3:
+  Fault-free (pristine) quantized CNN model.
+
+Accordingly, the individual model prediction columns in the CSV files
+also provide the sample-level predictions of the pristine and
+fault-injected models.
+
+For DMR:
+    model_1_prediction = pristine prediction
+    model_2_prediction = faulty prediction
+    dmr_prediction      = final DMR decision
+
+For TMR:
+    model_1_prediction = pristine prediction
+    model_2_prediction = faulty prediction
+    model_3_prediction = pristine prediction
+    tmr_prediction      = final TMR majority-vote decision
+
+For Hybrid:
+    model_1_prediction = pristine prediction
+    model_2_prediction = faulty prediction
+    model_3_prediction = pristine prediction when the TMR path is activated
+    hybrid_prediction   = final Hybrid decision
+
+Thus, the CSV files provide sample-level records for both the
+fault-free and fault-injected model predictions in addition to the
+redundant-system decisions.
 
