@@ -1,4 +1,6 @@
-the coding in this study was implemented in kaggle and google colab simultaneously
+The code used in this study was implemented using both Kaggle Notebooks
+and Google Colab. The software environments used for model development
+are documented below.
 
 For kaggle notebooks:
 
