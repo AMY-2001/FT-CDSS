@@ -1,0 +1,64 @@
+MRI FAULT-INJECTION CAMPAIGN
+=============================
+
+Dataset:
+MRI brain-tumor dataset
+
+Model:
+ResNet18 (RN18)
+
+Campaign scope:
+This campaign records the effect of bit-flip (upset) fault injection on
+classification accuracy for selected high-order (MSB) bit positions.
+The campaign was reduced to the selected MSB positions because the
+experimental analysis showed that higher-order bits produced more
+significant accuracy degradation.
+
+The values below are classification accuracy (%) for the corresponding
+injection percentage and selected bit position.
+
+-----------------------------------------
+MSB BIT POSITION 7
+-----------------------------------------
+Fault type    10%     20%     25%     30%     40%     50%
+SEU (7)       96.17   95.96   82.77   94.68   99.79   98.72
+DNU (6,7)     95.96   94.89   72.55   90.64   98.94   97.87
+TNU (5-7)     95.96   94.89   72.55   90.64   98.94   97.87
+QNU (4-7)     95.96   94.89   72.55   90.64   98.94   97.87
+
+-----------------------------------------
+MSB BIT POSITION 6
+-----------------------------------------
+Fault type    10%     20%     25%     30%     40%     50%
+SEU (6)       98.72   98.72   95.96   98.51   100.00  99.36
+DNU (5,6)     97.87   98.30   92.55   96.60   100.00  99.36
+TNU (4-6)     96.17   94.89   75.32   89.15   97.23   88.51
+QNU (3-6)     96.17   93.83   65.11   78.51   91.49   49.79
+
+-----------------------------------------
+MSB BIT POSITION 5
+-----------------------------------------
+Fault type    10%     20%     25%     30%     40%     50%
+SEU (5)       98.94   98.94   98.72   98.94   99.79   99.57
+DNU (4,5)     98.72   98.72   94.68   96.81   99.79   91.91
+TNU (3-5)     98.72   97.87   91.91   93.83   98.09   52.55
+QNU (2-5)     98.72   97.23   90.43   93.19   97.87   37.66
+
+-----------------------------------------
+INTERPRETATION
+-----------------------------------------
+
+The campaign focuses on upset/bit-flip faults at selected high-order
+(MSB) bit positions. Three adjacent MSB regions were examined:
+
+  • Bit 7 and associated multi-bit groups
+  • Bit 6 and associated multi-bit groups
+  • Bit 5 and associated multi-bit groups
+
+The campaign was intentionally limited to these representative MSB
+positions because the empirical results indicated greater sensitivity
+to faults affecting higher-order bits. This provides a focused campaign
+for documenting the fault-selection rationale rather than exhaustively
+enumerating every possible bit position.
+
+END OF MRI FAULT-INJECTION CAMPAIGN
