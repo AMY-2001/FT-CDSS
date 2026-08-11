@@ -1,4 +1,4 @@
-Dataset: Colon (LC25000)
+Dataset: Colon (LC25000) 
 
 Each campaign records accuracy (%) for SA-0, SA-1, and Upset.
 Bit Group identifies the targeted bit position(s).
