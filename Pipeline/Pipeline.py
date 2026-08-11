@@ -59,9 +59,9 @@ print("-------------✅ Transformrs -------------")
 def get_class_names(test_dir):
     return datasets.ImageFolder(test_dir).classes
 
-colon_classes = get_class_names("/home/amy_rpi/Desktop/Test datasets/Colon_Test/test")
-xray_classes  = get_class_names("/home/amy_rpi/Desktop/Test datasets/Xray_Test/test")
-mri_classes   = get_class_names("/home/amy_rpi/Desktop/Test datasets/MRI_Test/test")
+colon_classes = get_class_names("Test datasets/Colon_Test/test")
+xray_classes  = get_class_names("Test datasets/Xray_Test/test")
+mri_classes   = get_class_names("Test datasets/MRI_Test/test")
 print("---------------✅ Classes----------------")
 def load_image(path, transform):
     img = Image.open(path)
@@ -127,7 +127,7 @@ def classifier_process(paths, colon_q, mri_q, xray_q):
     p.cpu_affinity([0])
 
     model = torch.jit.load(
-        "/home/amy_rpi/Desktop/FT/Simple_CNN_pruned_jit_45%_int8.pt",
+        "classifier_CNN.pt",
         map_location="cpu"
     )
     model.eval()
@@ -166,7 +166,7 @@ def classifier_process(paths, colon_q, mri_q, xray_q):
 def main():
 
     if USE_CLASSIFIER:
-        dataset_path = "/home/amy_rpi/Desktop/Test datasets/Mixed_Test_all"
+        dataset_path = "Test datasets/Mixed_Test_2010"
 
         image_paths = [
             os.path.join(dataset_path, f)
@@ -178,9 +178,9 @@ def main():
         image_paths = []
 
         for key, path in {
-            "colon": "/home/amy_rpi/Desktop/Test datasets/Colon_Test/test",
-            "xray":  "/home/amy_rpi/Desktop/Test datasets/Xray_Test/test",
-            "mri":   "/home/amy_rpi/Desktop/Test datasets/MRI_Test/test"
+            "colon": "Test datasets/Colon_Test/test",
+            "xray":  "Test datasets/Xray_Test/test",
+            "mri":   "Test datasets/MRI_Test/test"
         }.items():
 
             for root, _, files in os.walk(path):
@@ -243,7 +243,7 @@ def main():
 
     end = time.time()
     
-    print("\n--- Milestone Times ---")
+    print("\nMilestone Times")
 
     for n in milestones:
         if n in milestone_times:
