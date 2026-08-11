@@ -1,4 +1,4 @@
-Model:
+Model: 
 ResNet18 (RN18)
 
 Dataset:
