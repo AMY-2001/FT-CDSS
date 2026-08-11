@@ -3,9 +3,9 @@
 
 ## Overview
 
-This folder contains the multiprocessing implementation of the proposed multimodal Clinical Decision Support System (CDSS) deployed on a Raspberry Pi 4.
+This folder contains the multiprocessing implementation of the proposed multimodal clinical decision support system (CDSS) deployed on a Raspberry Pi 4.
 
-The objective of this implementation is to execute three disease-specific convolutional neural networks (CNNs) concurrently using the four available CPU cores of the Raspberry Pi. The pipeline enables automatic routing of incoming medical images to the corresponding diagnostic model while evaluating different redundancy architectures (Baseline, DMR, TMR, and the proposed Hybrid redundancy).
+The objective of this implementation is to execute three disease-specific units concurrently using the four available CPU cores of the Raspberry Pi. The pipeline enables automatic routing of incoming medical images to the corresponding diagnostic model while evaluating different redundancy architectures (Baseline (simplex), DMR, TMR, and the proposed Hybrid redundancy).
 
 The implementation follows the deployment architecture presented in the manuscript.
 
@@ -102,17 +102,6 @@ This mode is primarily intended for debugging and evaluation of the diagnostic u
 ## 4. Loading the Diagnostic Models
 
 Each diagnostic unit loads its own TorchScript model.
-
-The implementation allows different model configurations to be evaluated by changing the model paths.
-
-Examples include
-
-- Baseline CNN
-- DMR model
-- TMR model
-- Proposed Hybrid model
-
-No additional changes to the multiprocessing implementation are required.
 
 ---
 
