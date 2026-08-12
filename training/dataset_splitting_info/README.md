@@ -57,9 +57,7 @@ val_test = val_ids & test_ids
 
 all_three = train_ids & val_ids & test_ids
 
-print("===========================================")
 print("data splitting check reportt")
-print("===========================================")
 
 print(f"Training images   : {len(train_ids)}")
 print(f"Validation images : {len(val_ids)}")
