@@ -1,0 +1,493 @@
+filename,relative_path,class,split
+Te-noTr_0003.jpg,No Tumor/Te-noTr_0003.jpg,No Tumor,validation
+Te-no_0016.jpg,No Tumor/Te-no_0016.jpg,No Tumor,validation
+Te-no_0056.jpg,No Tumor/Te-no_0056.jpg,No Tumor,validation
+Te-no_0078.jpg,No Tumor/Te-no_0078.jpg,No Tumor,validation
+Te-no_0104.jpg,No Tumor/Te-no_0104.jpg,No Tumor,validation
+Te-no_0110.jpg,No Tumor/Te-no_0110.jpg,No Tumor,validation
+Te-no_0116.jpg,No Tumor/Te-no_0116.jpg,No Tumor,validation
+Te-no_0117.jpg,No Tumor/Te-no_0117.jpg,No Tumor,validation
+Te-no_0119.jpg,No Tumor/Te-no_0119.jpg,No Tumor,validation
+Te-no_0124.jpg,No Tumor/Te-no_0124.jpg,No Tumor,validation
+Te-no_0139.jpg,No Tumor/Te-no_0139.jpg,No Tumor,validation
+Te-no_0140.jpg,No Tumor/Te-no_0140.jpg,No Tumor,validation
+Te-no_0148.jpg,No Tumor/Te-no_0148.jpg,No Tumor,validation
+Te-no_0150.jpg,No Tumor/Te-no_0150.jpg,No Tumor,validation
+Te-no_0154.jpg,No Tumor/Te-no_0154.jpg,No Tumor,validation
+Te-no_0164.jpg,No Tumor/Te-no_0164.jpg,No Tumor,validation
+Te-no_0167.jpg,No Tumor/Te-no_0167.jpg,No Tumor,validation
+Te-no_0193.jpg,No Tumor/Te-no_0193.jpg,No Tumor,validation
+Te-no_0200.jpg,No Tumor/Te-no_0200.jpg,No Tumor,validation
+Te-no_0201.jpg,No Tumor/Te-no_0201.jpg,No Tumor,validation
+Te-no_0204.jpg,No Tumor/Te-no_0204.jpg,No Tumor,validation
+Te-no_0210.jpg,No Tumor/Te-no_0210.jpg,No Tumor,validation
+Te-no_0212.jpg,No Tumor/Te-no_0212.jpg,No Tumor,validation
+Te-no_0219.jpg,No Tumor/Te-no_0219.jpg,No Tumor,validation
+Te-no_0221.jpg,No Tumor/Te-no_0221.jpg,No Tumor,validation
+Te-no_0222.jpg,No Tumor/Te-no_0222.jpg,No Tumor,validation
+Te-no_0223.jpg,No Tumor/Te-no_0223.jpg,No Tumor,validation
+Te-no_0236.jpg,No Tumor/Te-no_0236.jpg,No Tumor,validation
+Te-no_0245.jpg,No Tumor/Te-no_0245.jpg,No Tumor,validation
+Te-no_0261.jpg,No Tumor/Te-no_0261.jpg,No Tumor,validation
+Te-no_0267.jpg,No Tumor/Te-no_0267.jpg,No Tumor,validation
+Te-no_0268.jpg,No Tumor/Te-no_0268.jpg,No Tumor,validation
+Te-no_0270.jpg,No Tumor/Te-no_0270.jpg,No Tumor,validation
+Te-no_0271.jpg,No Tumor/Te-no_0271.jpg,No Tumor,validation
+Te-no_0275.jpg,No Tumor/Te-no_0275.jpg,No Tumor,validation
+Te-no_0287.jpg,No Tumor/Te-no_0287.jpg,No Tumor,validation
+Te-no_0303.jpg,No Tumor/Te-no_0303.jpg,No Tumor,validation
+Te-no_0305.jpg,No Tumor/Te-no_0305.jpg,No Tumor,validation
+Te-no_0316.jpg,No Tumor/Te-no_0316.jpg,No Tumor,validation
+Te-no_0317.jpg,No Tumor/Te-no_0317.jpg,No Tumor,validation
+Te-no_0322.jpg,No Tumor/Te-no_0322.jpg,No Tumor,validation
+Te-no_0332.jpg,No Tumor/Te-no_0332.jpg,No Tumor,validation
+Te-no_0337.jpg,No Tumor/Te-no_0337.jpg,No Tumor,validation
+Te-no_0340.jpg,No Tumor/Te-no_0340.jpg,No Tumor,validation
+Te-no_0362.jpg,No Tumor/Te-no_0362.jpg,No Tumor,validation
+Te-no_0367.jpg,No Tumor/Te-no_0367.jpg,No Tumor,validation
+Te-no_0375.jpg,No Tumor/Te-no_0375.jpg,No Tumor,validation
+Te-no_0380.jpg,No Tumor/Te-no_0380.jpg,No Tumor,validation
+Te-no_0388.jpg,No Tumor/Te-no_0388.jpg,No Tumor,validation
+Te-no_0389.jpg,No Tumor/Te-no_0389.jpg,No Tumor,validation
+Te-no_0392.jpg,No Tumor/Te-no_0392.jpg,No Tumor,validation
+Te-no_0395.jpg,No Tumor/Te-no_0395.jpg,No Tumor,validation
+Te-no_0403.jpg,No Tumor/Te-no_0403.jpg,No Tumor,validation
+Tr-noTr_0003.jpg,No Tumor/Tr-noTr_0003.jpg,No Tumor,validation
+Tr-no_0026.jpg,No Tumor/Tr-no_0026.jpg,No Tumor,validation
+Tr-no_0032.jpg,No Tumor/Tr-no_0032.jpg,No Tumor,validation
+Tr-no_0040.jpg,No Tumor/Tr-no_0040.jpg,No Tumor,validation
+Tr-no_0050.jpg,No Tumor/Tr-no_0050.jpg,No Tumor,validation
+Tr-no_0051.jpg,No Tumor/Tr-no_0051.jpg,No Tumor,validation
+Tr-no_0083.jpg,No Tumor/Tr-no_0083.jpg,No Tumor,validation
+Tr-no_0092.jpg,No Tumor/Tr-no_0092.jpg,No Tumor,validation
+Tr-no_0095.jpg,No Tumor/Tr-no_0095.jpg,No Tumor,validation
+Tr-no_0103.jpg,No Tumor/Tr-no_0103.jpg,No Tumor,validation
+Tr-no_0104.jpg,No Tumor/Tr-no_0104.jpg,No Tumor,validation
+Tr-no_0106.jpg,No Tumor/Tr-no_0106.jpg,No Tumor,validation
+Tr-no_0129.jpg,No Tumor/Tr-no_0129.jpg,No Tumor,validation
+Tr-no_0138.jpg,No Tumor/Tr-no_0138.jpg,No Tumor,validation
+Tr-no_0172.jpg,No Tumor/Tr-no_0172.jpg,No Tumor,validation
+Tr-no_0178.jpg,No Tumor/Tr-no_0178.jpg,No Tumor,validation
+Tr-no_0179.jpg,No Tumor/Tr-no_0179.jpg,No Tumor,validation
+Tr-no_0208.jpg,No Tumor/Tr-no_0208.jpg,No Tumor,validation
+Tr-no_0209.jpg,No Tumor/Tr-no_0209.jpg,No Tumor,validation
+Tr-no_0214.jpg,No Tumor/Tr-no_0214.jpg,No Tumor,validation
+Tr-no_0273.jpg,No Tumor/Tr-no_0273.jpg,No Tumor,validation
+Tr-no_0275.jpg,No Tumor/Tr-no_0275.jpg,No Tumor,validation
+Tr-no_0278.jpg,No Tumor/Tr-no_0278.jpg,No Tumor,validation
+Tr-no_0289.jpg,No Tumor/Tr-no_0289.jpg,No Tumor,validation
+Tr-no_0297.jpg,No Tumor/Tr-no_0297.jpg,No Tumor,validation
+Tr-no_0302.jpg,No Tumor/Tr-no_0302.jpg,No Tumor,validation
+Tr-no_0309.jpg,No Tumor/Tr-no_0309.jpg,No Tumor,validation
+Tr-no_0311.jpg,No Tumor/Tr-no_0311.jpg,No Tumor,validation
+Tr-no_0314.jpg,No Tumor/Tr-no_0314.jpg,No Tumor,validation
+Tr-no_0320.jpg,No Tumor/Tr-no_0320.jpg,No Tumor,validation
+Tr-no_0327.jpg,No Tumor/Tr-no_0327.jpg,No Tumor,validation
+Tr-no_0371.jpg,No Tumor/Tr-no_0371.jpg,No Tumor,validation
+Tr-no_0378.jpg,No Tumor/Tr-no_0378.jpg,No Tumor,validation
+Tr-no_0411.jpg,No Tumor/Tr-no_0411.jpg,No Tumor,validation
+Tr-no_0413.jpg,No Tumor/Tr-no_0413.jpg,No Tumor,validation
+Tr-no_0419.jpg,No Tumor/Tr-no_0419.jpg,No Tumor,validation
+Tr-no_0421.jpg,No Tumor/Tr-no_0421.jpg,No Tumor,validation
+Tr-no_0427.jpg,No Tumor/Tr-no_0427.jpg,No Tumor,validation
+Tr-no_0428.jpg,No Tumor/Tr-no_0428.jpg,No Tumor,validation
+Tr-no_0436.jpg,No Tumor/Tr-no_0436.jpg,No Tumor,validation
+Tr-no_0438.jpg,No Tumor/Tr-no_0438.jpg,No Tumor,validation
+Tr-no_0439.jpg,No Tumor/Tr-no_0439.jpg,No Tumor,validation
+Tr-no_0453.jpg,No Tumor/Tr-no_0453.jpg,No Tumor,validation
+Tr-no_0462.jpg,No Tumor/Tr-no_0462.jpg,No Tumor,validation
+Tr-no_0470.jpg,No Tumor/Tr-no_0470.jpg,No Tumor,validation
+Tr-no_0475.jpg,No Tumor/Tr-no_0475.jpg,No Tumor,validation
+Tr-no_0477.jpg,No Tumor/Tr-no_0477.jpg,No Tumor,validation
+Tr-no_0484.jpg,No Tumor/Tr-no_0484.jpg,No Tumor,validation
+Tr-no_0488.jpg,No Tumor/Tr-no_0488.jpg,No Tumor,validation
+Tr-no_0499.jpg,No Tumor/Tr-no_0499.jpg,No Tumor,validation
+Tr-no_0502.jpg,No Tumor/Tr-no_0502.jpg,No Tumor,validation
+Tr-no_0513.jpg,No Tumor/Tr-no_0513.jpg,No Tumor,validation
+Tr-no_0526.jpg,No Tumor/Tr-no_0526.jpg,No Tumor,validation
+Tr-no_0531.jpg,No Tumor/Tr-no_0531.jpg,No Tumor,validation
+Tr-no_0533.jpg,No Tumor/Tr-no_0533.jpg,No Tumor,validation
+Tr-no_0537.jpg,No Tumor/Tr-no_0537.jpg,No Tumor,validation
+Tr-no_0542.jpg,No Tumor/Tr-no_0542.jpg,No Tumor,validation
+Tr-no_0551.jpg,No Tumor/Tr-no_0551.jpg,No Tumor,validation
+Tr-no_0558.jpg,No Tumor/Tr-no_0558.jpg,No Tumor,validation
+Tr-no_0563.jpg,No Tumor/Tr-no_0563.jpg,No Tumor,validation
+Tr-no_0571.jpg,No Tumor/Tr-no_0571.jpg,No Tumor,validation
+Tr-no_0580.jpg,No Tumor/Tr-no_0580.jpg,No Tumor,validation
+Tr-no_0589.jpg,No Tumor/Tr-no_0589.jpg,No Tumor,validation
+Tr-no_0591.jpg,No Tumor/Tr-no_0591.jpg,No Tumor,validation
+Tr-no_0624.jpg,No Tumor/Tr-no_0624.jpg,No Tumor,validation
+Tr-no_0630.jpg,No Tumor/Tr-no_0630.jpg,No Tumor,validation
+Tr-no_0631.jpg,No Tumor/Tr-no_0631.jpg,No Tumor,validation
+Tr-no_0635.jpg,No Tumor/Tr-no_0635.jpg,No Tumor,validation
+Tr-no_0642.jpg,No Tumor/Tr-no_0642.jpg,No Tumor,validation
+Tr-no_0659.jpg,No Tumor/Tr-no_0659.jpg,No Tumor,validation
+Tr-no_0665.jpg,No Tumor/Tr-no_0665.jpg,No Tumor,validation
+Tr-no_0682.jpg,No Tumor/Tr-no_0682.jpg,No Tumor,validation
+Tr-no_0696.jpg,No Tumor/Tr-no_0696.jpg,No Tumor,validation
+Tr-no_0697.jpg,No Tumor/Tr-no_0697.jpg,No Tumor,validation
+Tr-no_0702.jpg,No Tumor/Tr-no_0702.jpg,No Tumor,validation
+Tr-no_0705.jpg,No Tumor/Tr-no_0705.jpg,No Tumor,validation
+Tr-no_0707.jpg,No Tumor/Tr-no_0707.jpg,No Tumor,validation
+Tr-no_0712.jpg,No Tumor/Tr-no_0712.jpg,No Tumor,validation
+Tr-no_0722.jpg,No Tumor/Tr-no_0722.jpg,No Tumor,validation
+Tr-no_0724.jpg,No Tumor/Tr-no_0724.jpg,No Tumor,validation
+Tr-no_0726.jpg,No Tumor/Tr-no_0726.jpg,No Tumor,validation
+Tr-no_0730.jpg,No Tumor/Tr-no_0730.jpg,No Tumor,validation
+Tr-no_0733.jpg,No Tumor/Tr-no_0733.jpg,No Tumor,validation
+Tr-no_0741.jpg,No Tumor/Tr-no_0741.jpg,No Tumor,validation
+Tr-no_0743.jpg,No Tumor/Tr-no_0743.jpg,No Tumor,validation
+Tr-no_0748.jpg,No Tumor/Tr-no_0748.jpg,No Tumor,validation
+Tr-no_0752.jpg,No Tumor/Tr-no_0752.jpg,No Tumor,validation
+Tr-no_0761.jpg,No Tumor/Tr-no_0761.jpg,No Tumor,validation
+Tr-no_0764.jpg,No Tumor/Tr-no_0764.jpg,No Tumor,validation
+Tr-no_0775.jpg,No Tumor/Tr-no_0775.jpg,No Tumor,validation
+Tr-no_0780.jpg,No Tumor/Tr-no_0780.jpg,No Tumor,validation
+Tr-no_0781.jpg,No Tumor/Tr-no_0781.jpg,No Tumor,validation
+Tr-no_0784.jpg,No Tumor/Tr-no_0784.jpg,No Tumor,validation
+Tr-no_0787.jpg,No Tumor/Tr-no_0787.jpg,No Tumor,validation
+Tr-no_0791.jpg,No Tumor/Tr-no_0791.jpg,No Tumor,validation
+Tr-no_0812.jpg,No Tumor/Tr-no_0812.jpg,No Tumor,validation
+Tr-no_0813.jpg,No Tumor/Tr-no_0813.jpg,No Tumor,validation
+Tr-no_0833.jpg,No Tumor/Tr-no_0833.jpg,No Tumor,validation
+Tr-no_0836.jpg,No Tumor/Tr-no_0836.jpg,No Tumor,validation
+Tr-no_0847.jpg,No Tumor/Tr-no_0847.jpg,No Tumor,validation
+Tr-no_0863.jpg,No Tumor/Tr-no_0863.jpg,No Tumor,validation
+Tr-no_0866.jpg,No Tumor/Tr-no_0866.jpg,No Tumor,validation
+Tr-no_0867.jpg,No Tumor/Tr-no_0867.jpg,No Tumor,validation
+Tr-no_0893.jpg,No Tumor/Tr-no_0893.jpg,No Tumor,validation
+Tr-no_0894.jpg,No Tumor/Tr-no_0894.jpg,No Tumor,validation
+Tr-no_0899.jpg,No Tumor/Tr-no_0899.jpg,No Tumor,validation
+Tr-no_0908.jpg,No Tumor/Tr-no_0908.jpg,No Tumor,validation
+Tr-no_0916.jpg,No Tumor/Tr-no_0916.jpg,No Tumor,validation
+Tr-no_0918.jpg,No Tumor/Tr-no_0918.jpg,No Tumor,validation
+Tr-no_0930.jpg,No Tumor/Tr-no_0930.jpg,No Tumor,validation
+Tr-no_0933.jpg,No Tumor/Tr-no_0933.jpg,No Tumor,validation
+Tr-no_0934.jpg,No Tumor/Tr-no_0934.jpg,No Tumor,validation
+Tr-no_0941.jpg,No Tumor/Tr-no_0941.jpg,No Tumor,validation
+Tr-no_0944.jpg,No Tumor/Tr-no_0944.jpg,No Tumor,validation
+Tr-no_0950.jpg,No Tumor/Tr-no_0950.jpg,No Tumor,validation
+Tr-no_0953.jpg,No Tumor/Tr-no_0953.jpg,No Tumor,validation
+Tr-no_0986.jpg,No Tumor/Tr-no_0986.jpg,No Tumor,validation
+Tr-no_1002.jpg,No Tumor/Tr-no_1002.jpg,No Tumor,validation
+Tr-no_1010.jpg,No Tumor/Tr-no_1010.jpg,No Tumor,validation
+Tr-no_1021.jpg,No Tumor/Tr-no_1021.jpg,No Tumor,validation
+Tr-no_1035.jpg,No Tumor/Tr-no_1035.jpg,No Tumor,validation
+Tr-no_1040.jpg,No Tumor/Tr-no_1040.jpg,No Tumor,validation
+Tr-no_1076.jpg,No Tumor/Tr-no_1076.jpg,No Tumor,validation
+Tr-no_1086.jpg,No Tumor/Tr-no_1086.jpg,No Tumor,validation
+Tr-no_1134.jpg,No Tumor/Tr-no_1134.jpg,No Tumor,validation
+Tr-no_1138.jpg,No Tumor/Tr-no_1138.jpg,No Tumor,validation
+Tr-no_1147.jpg,No Tumor/Tr-no_1147.jpg,No Tumor,validation
+Tr-no_1172.jpg,No Tumor/Tr-no_1172.jpg,No Tumor,validation
+Tr-no_1173.jpg,No Tumor/Tr-no_1173.jpg,No Tumor,validation
+Tr-no_1192.jpg,No Tumor/Tr-no_1192.jpg,No Tumor,validation
+Tr-no_1199.jpg,No Tumor/Tr-no_1199.jpg,No Tumor,validation
+Tr-no_1200.jpg,No Tumor/Tr-no_1200.jpg,No Tumor,validation
+Tr-no_1201.jpg,No Tumor/Tr-no_1201.jpg,No Tumor,validation
+Tr-no_1202.jpg,No Tumor/Tr-no_1202.jpg,No Tumor,validation
+Tr-no_1204.jpg,No Tumor/Tr-no_1204.jpg,No Tumor,validation
+Tr-no_1208.jpg,No Tumor/Tr-no_1208.jpg,No Tumor,validation
+Tr-no_1221.jpg,No Tumor/Tr-no_1221.jpg,No Tumor,validation
+Tr-no_1227.jpg,No Tumor/Tr-no_1227.jpg,No Tumor,validation
+Tr-no_1234.jpg,No Tumor/Tr-no_1234.jpg,No Tumor,validation
+Tr-no_1237.jpg,No Tumor/Tr-no_1237.jpg,No Tumor,validation
+Tr-no_1239.jpg,No Tumor/Tr-no_1239.jpg,No Tumor,validation
+Tr-no_1248.jpg,No Tumor/Tr-no_1248.jpg,No Tumor,validation
+Tr-no_1249.jpg,No Tumor/Tr-no_1249.jpg,No Tumor,validation
+Tr-no_1250.jpg,No Tumor/Tr-no_1250.jpg,No Tumor,validation
+Tr-no_1257.jpg,No Tumor/Tr-no_1257.jpg,No Tumor,validation
+Tr-no_1258.jpg,No Tumor/Tr-no_1258.jpg,No Tumor,validation
+Tr-no_1264.jpg,No Tumor/Tr-no_1264.jpg,No Tumor,validation
+Tr-no_1275.jpg,No Tumor/Tr-no_1275.jpg,No Tumor,validation
+Tr-no_1281.jpg,No Tumor/Tr-no_1281.jpg,No Tumor,validation
+Tr-no_1287.jpg,No Tumor/Tr-no_1287.jpg,No Tumor,validation
+Tr-no_1288.jpg,No Tumor/Tr-no_1288.jpg,No Tumor,validation
+Tr-no_1294.jpg,No Tumor/Tr-no_1294.jpg,No Tumor,validation
+Tr-no_1296.jpg,No Tumor/Tr-no_1296.jpg,No Tumor,validation
+Tr-no_1304.jpg,No Tumor/Tr-no_1304.jpg,No Tumor,validation
+Tr-no_1322.jpg,No Tumor/Tr-no_1322.jpg,No Tumor,validation
+Tr-no_1325.jpg,No Tumor/Tr-no_1325.jpg,No Tumor,validation
+Tr-no_1333.jpg,No Tumor/Tr-no_1333.jpg,No Tumor,validation
+Tr-no_1335.jpg,No Tumor/Tr-no_1335.jpg,No Tumor,validation
+Tr-no_1342.jpg,No Tumor/Tr-no_1342.jpg,No Tumor,validation
+Tr-no_1349.jpg,No Tumor/Tr-no_1349.jpg,No Tumor,validation
+Tr-no_1362.jpg,No Tumor/Tr-no_1362.jpg,No Tumor,validation
+Tr-no_1364.jpg,No Tumor/Tr-no_1364.jpg,No Tumor,validation
+Tr-no_1371.jpg,No Tumor/Tr-no_1371.jpg,No Tumor,validation
+Tr-no_1372.jpg,No Tumor/Tr-no_1372.jpg,No Tumor,validation
+Tr-no_1385.jpg,No Tumor/Tr-no_1385.jpg,No Tumor,validation
+Tr-no_1394.jpg,No Tumor/Tr-no_1394.jpg,No Tumor,validation
+Tr-no_1401.jpg,No Tumor/Tr-no_1401.jpg,No Tumor,validation
+Tr-no_1404.jpg,No Tumor/Tr-no_1404.jpg,No Tumor,validation
+Tr-no_1410.jpg,No Tumor/Tr-no_1410.jpg,No Tumor,validation
+Tr-no_1411.jpg,No Tumor/Tr-no_1411.jpg,No Tumor,validation
+Tr-no_1412.jpg,No Tumor/Tr-no_1412.jpg,No Tumor,validation
+Tr-no_1416.jpg,No Tumor/Tr-no_1416.jpg,No Tumor,validation
+Tr-no_1418.jpg,No Tumor/Tr-no_1418.jpg,No Tumor,validation
+Tr-no_1419.jpg,No Tumor/Tr-no_1419.jpg,No Tumor,validation
+Tr-no_1428.jpg,No Tumor/Tr-no_1428.jpg,No Tumor,validation
+Tr-no_1431.jpg,No Tumor/Tr-no_1431.jpg,No Tumor,validation
+Tr-no_1436.jpg,No Tumor/Tr-no_1436.jpg,No Tumor,validation
+Tr-no_1440.jpg,No Tumor/Tr-no_1440.jpg,No Tumor,validation
+Tr-no_1452.jpg,No Tumor/Tr-no_1452.jpg,No Tumor,validation
+Tr-no_1463.jpg,No Tumor/Tr-no_1463.jpg,No Tumor,validation
+Tr-no_1484.jpg,No Tumor/Tr-no_1484.jpg,No Tumor,validation
+Tr-no_1512.jpg,No Tumor/Tr-no_1512.jpg,No Tumor,validation
+Tr-no_1515.jpg,No Tumor/Tr-no_1515.jpg,No Tumor,validation
+Tr-no_1531.jpg,No Tumor/Tr-no_1531.jpg,No Tumor,validation
+Tr-no_1536.jpg,No Tumor/Tr-no_1536.jpg,No Tumor,validation
+Tr-no_1541.jpg,No Tumor/Tr-no_1541.jpg,No Tumor,validation
+Tr-no_1543.jpg,No Tumor/Tr-no_1543.jpg,No Tumor,validation
+Tr-no_1548.jpg,No Tumor/Tr-no_1548.jpg,No Tumor,validation
+Tr-no_1553.jpg,No Tumor/Tr-no_1553.jpg,No Tumor,validation
+Tr-no_1558.jpg,No Tumor/Tr-no_1558.jpg,No Tumor,validation
+Tr-no_1565.jpg,No Tumor/Tr-no_1565.jpg,No Tumor,validation
+Tr-no_1567.jpg,No Tumor/Tr-no_1567.jpg,No Tumor,validation
+Tr-no_1575.jpg,No Tumor/Tr-no_1575.jpg,No Tumor,validation
+tumor_00055.png,Tumor/tumor_00055.png,Tumor,validation
+tumor_00063.png,Tumor/tumor_00063.png,Tumor,validation
+tumor_00077.png,Tumor/tumor_00077.png,Tumor,validation
+tumor_00085.png,Tumor/tumor_00085.png,Tumor,validation
+tumor_00092.png,Tumor/tumor_00092.png,Tumor,validation
+tumor_00098.png,Tumor/tumor_00098.png,Tumor,validation
+tumor_00102.png,Tumor/tumor_00102.png,Tumor,validation
+tumor_00124.png,Tumor/tumor_00124.png,Tumor,validation
+tumor_00133.png,Tumor/tumor_00133.png,Tumor,validation
+tumor_00142.png,Tumor/tumor_00142.png,Tumor,validation
+tumor_00154.png,Tumor/tumor_00154.png,Tumor,validation
+tumor_00159.png,Tumor/tumor_00159.png,Tumor,validation
+tumor_00163.png,Tumor/tumor_00163.png,Tumor,validation
+tumor_00164.png,Tumor/tumor_00164.png,Tumor,validation
+tumor_00175.png,Tumor/tumor_00175.png,Tumor,validation
+tumor_00190.png,Tumor/tumor_00190.png,Tumor,validation
+tumor_00195.png,Tumor/tumor_00195.png,Tumor,validation
+tumor_00229.png,Tumor/tumor_00229.png,Tumor,validation
+tumor_00256.png,Tumor/tumor_00256.png,Tumor,validation
+tumor_00281.png,Tumor/tumor_00281.png,Tumor,validation
+tumor_00290.png,Tumor/tumor_00290.png,Tumor,validation
+tumor_00298.png,Tumor/tumor_00298.png,Tumor,validation
+tumor_00329.png,Tumor/tumor_00329.png,Tumor,validation
+tumor_00333.png,Tumor/tumor_00333.png,Tumor,validation
+tumor_00337.png,Tumor/tumor_00337.png,Tumor,validation
+tumor_00338.png,Tumor/tumor_00338.png,Tumor,validation
+tumor_00363.png,Tumor/tumor_00363.png,Tumor,validation
+tumor_00372.png,Tumor/tumor_00372.png,Tumor,validation
+tumor_00380.png,Tumor/tumor_00380.png,Tumor,validation
+tumor_00390.png,Tumor/tumor_00390.png,Tumor,validation
+tumor_00391.png,Tumor/tumor_00391.png,Tumor,validation
+tumor_00395.png,Tumor/tumor_00395.png,Tumor,validation
+tumor_00411.png,Tumor/tumor_00411.png,Tumor,validation
+tumor_00419.png,Tumor/tumor_00419.png,Tumor,validation
+tumor_00428.png,Tumor/tumor_00428.png,Tumor,validation
+tumor_00433.png,Tumor/tumor_00433.png,Tumor,validation
+tumor_00445.png,Tumor/tumor_00445.png,Tumor,validation
+tumor_00453.png,Tumor/tumor_00453.png,Tumor,validation
+tumor_00459.png,Tumor/tumor_00459.png,Tumor,validation
+tumor_00469.png,Tumor/tumor_00469.png,Tumor,validation
+tumor_00471.png,Tumor/tumor_00471.png,Tumor,validation
+tumor_00482.png,Tumor/tumor_00482.png,Tumor,validation
+tumor_00487.png,Tumor/tumor_00487.png,Tumor,validation
+tumor_00494.png,Tumor/tumor_00494.png,Tumor,validation
+tumor_00495.png,Tumor/tumor_00495.png,Tumor,validation
+tumor_00501.png,Tumor/tumor_00501.png,Tumor,validation
+tumor_00513.png,Tumor/tumor_00513.png,Tumor,validation
+tumor_00522.png,Tumor/tumor_00522.png,Tumor,validation
+tumor_00531.png,Tumor/tumor_00531.png,Tumor,validation
+tumor_00582.png,Tumor/tumor_00582.png,Tumor,validation
+tumor_00590.png,Tumor/tumor_00590.png,Tumor,validation
+tumor_00600.png,Tumor/tumor_00600.png,Tumor,validation
+tumor_00605.png,Tumor/tumor_00605.png,Tumor,validation
+tumor_00633.png,Tumor/tumor_00633.png,Tumor,validation
+tumor_00646.png,Tumor/tumor_00646.png,Tumor,validation
+tumor_00657.png,Tumor/tumor_00657.png,Tumor,validation
+tumor_00675.png,Tumor/tumor_00675.png,Tumor,validation
+tumor_00704.png,Tumor/tumor_00704.png,Tumor,validation
+tumor_00762.png,Tumor/tumor_00762.png,Tumor,validation
+tumor_00769.png,Tumor/tumor_00769.png,Tumor,validation
+tumor_00778.png,Tumor/tumor_00778.png,Tumor,validation
+tumor_00779.png,Tumor/tumor_00779.png,Tumor,validation
+tumor_00831.png,Tumor/tumor_00831.png,Tumor,validation
+tumor_00833.png,Tumor/tumor_00833.png,Tumor,validation
+tumor_00836.png,Tumor/tumor_00836.png,Tumor,validation
+tumor_00840.png,Tumor/tumor_00840.png,Tumor,validation
+tumor_00883.png,Tumor/tumor_00883.png,Tumor,validation
+tumor_00888.png,Tumor/tumor_00888.png,Tumor,validation
+tumor_00929.png,Tumor/tumor_00929.png,Tumor,validation
+tumor_00932.png,Tumor/tumor_00932.png,Tumor,validation
+tumor_00943.png,Tumor/tumor_00943.png,Tumor,validation
+tumor_00968.png,Tumor/tumor_00968.png,Tumor,validation
+tumor_00970.png,Tumor/tumor_00970.png,Tumor,validation
+tumor_00980.png,Tumor/tumor_00980.png,Tumor,validation
+tumor_00985.png,Tumor/tumor_00985.png,Tumor,validation
+tumor_00999.png,Tumor/tumor_00999.png,Tumor,validation
+tumor_01003.png,Tumor/tumor_01003.png,Tumor,validation
+tumor_01005.png,Tumor/tumor_01005.png,Tumor,validation
+tumor_01015.png,Tumor/tumor_01015.png,Tumor,validation
+tumor_01020.png,Tumor/tumor_01020.png,Tumor,validation
+tumor_01038.png,Tumor/tumor_01038.png,Tumor,validation
+tumor_01043.png,Tumor/tumor_01043.png,Tumor,validation
+tumor_01052.png,Tumor/tumor_01052.png,Tumor,validation
+tumor_01056.png,Tumor/tumor_01056.png,Tumor,validation
+tumor_01064.png,Tumor/tumor_01064.png,Tumor,validation
+tumor_01070.png,Tumor/tumor_01070.png,Tumor,validation
+tumor_01076.png,Tumor/tumor_01076.png,Tumor,validation
+tumor_01079.png,Tumor/tumor_01079.png,Tumor,validation
+tumor_01082.png,Tumor/tumor_01082.png,Tumor,validation
+tumor_01107.png,Tumor/tumor_01107.png,Tumor,validation
+tumor_01137.png,Tumor/tumor_01137.png,Tumor,validation
+tumor_01150.png,Tumor/tumor_01150.png,Tumor,validation
+tumor_01169.png,Tumor/tumor_01169.png,Tumor,validation
+tumor_01185.png,Tumor/tumor_01185.png,Tumor,validation
+tumor_01194.png,Tumor/tumor_01194.png,Tumor,validation
+tumor_01232.png,Tumor/tumor_01232.png,Tumor,validation
+tumor_01233.png,Tumor/tumor_01233.png,Tumor,validation
+tumor_01235.png,Tumor/tumor_01235.png,Tumor,validation
+tumor_01256.png,Tumor/tumor_01256.png,Tumor,validation
+tumor_01258.png,Tumor/tumor_01258.png,Tumor,validation
+tumor_01262.png,Tumor/tumor_01262.png,Tumor,validation
+tumor_01281.png,Tumor/tumor_01281.png,Tumor,validation
+tumor_01289.png,Tumor/tumor_01289.png,Tumor,validation
+tumor_01298.png,Tumor/tumor_01298.png,Tumor,validation
+tumor_01306.png,Tumor/tumor_01306.png,Tumor,validation
+tumor_01344.png,Tumor/tumor_01344.png,Tumor,validation
+tumor_01353.png,Tumor/tumor_01353.png,Tumor,validation
+tumor_01378.png,Tumor/tumor_01378.png,Tumor,validation
+tumor_01402.png,Tumor/tumor_01402.png,Tumor,validation
+tumor_01404.png,Tumor/tumor_01404.png,Tumor,validation
+tumor_01433.png,Tumor/tumor_01433.png,Tumor,validation
+tumor_01452.png,Tumor/tumor_01452.png,Tumor,validation
+tumor_01453.png,Tumor/tumor_01453.png,Tumor,validation
+tumor_01463.png,Tumor/tumor_01463.png,Tumor,validation
+tumor_01469.png,Tumor/tumor_01469.png,Tumor,validation
+tumor_01476.png,Tumor/tumor_01476.png,Tumor,validation
+tumor_01477.png,Tumor/tumor_01477.png,Tumor,validation
+tumor_01478.png,Tumor/tumor_01478.png,Tumor,validation
+tumor_01493.png,Tumor/tumor_01493.png,Tumor,validation
+tumor_01507.png,Tumor/tumor_01507.png,Tumor,validation
+tumor_01529.png,Tumor/tumor_01529.png,Tumor,validation
+tumor_01547.png,Tumor/tumor_01547.png,Tumor,validation
+tumor_01555.png,Tumor/tumor_01555.png,Tumor,validation
+tumor_01558.png,Tumor/tumor_01558.png,Tumor,validation
+tumor_01559.png,Tumor/tumor_01559.png,Tumor,validation
+tumor_01562.png,Tumor/tumor_01562.png,Tumor,validation
+tumor_01565.png,Tumor/tumor_01565.png,Tumor,validation
+tumor_01568.png,Tumor/tumor_01568.png,Tumor,validation
+tumor_01571.png,Tumor/tumor_01571.png,Tumor,validation
+tumor_01578.png,Tumor/tumor_01578.png,Tumor,validation
+tumor_01584.png,Tumor/tumor_01584.png,Tumor,validation
+tumor_01589.png,Tumor/tumor_01589.png,Tumor,validation
+tumor_01591.png,Tumor/tumor_01591.png,Tumor,validation
+tumor_01605.png,Tumor/tumor_01605.png,Tumor,validation
+tumor_01615.png,Tumor/tumor_01615.png,Tumor,validation
+tumor_01617.png,Tumor/tumor_01617.png,Tumor,validation
+tumor_01620.png,Tumor/tumor_01620.png,Tumor,validation
+tumor_01637.png,Tumor/tumor_01637.png,Tumor,validation
+tumor_01662.png,Tumor/tumor_01662.png,Tumor,validation
+tumor_01663.png,Tumor/tumor_01663.png,Tumor,validation
+tumor_01665.png,Tumor/tumor_01665.png,Tumor,validation
+tumor_01675.png,Tumor/tumor_01675.png,Tumor,validation
+tumor_01726.png,Tumor/tumor_01726.png,Tumor,validation
+tumor_01737.png,Tumor/tumor_01737.png,Tumor,validation
+tumor_01749.png,Tumor/tumor_01749.png,Tumor,validation
+tumor_01753.png,Tumor/tumor_01753.png,Tumor,validation
+tumor_01770.png,Tumor/tumor_01770.png,Tumor,validation
+tumor_01778.png,Tumor/tumor_01778.png,Tumor,validation
+tumor_01789.png,Tumor/tumor_01789.png,Tumor,validation
+tumor_01790.png,Tumor/tumor_01790.png,Tumor,validation
+tumor_01792.png,Tumor/tumor_01792.png,Tumor,validation
+tumor_01793.png,Tumor/tumor_01793.png,Tumor,validation
+tumor_01808.png,Tumor/tumor_01808.png,Tumor,validation
+tumor_01809.png,Tumor/tumor_01809.png,Tumor,validation
+tumor_01818.png,Tumor/tumor_01818.png,Tumor,validation
+tumor_01838.png,Tumor/tumor_01838.png,Tumor,validation
+tumor_01850.png,Tumor/tumor_01850.png,Tumor,validation
+tumor_01863.png,Tumor/tumor_01863.png,Tumor,validation
+tumor_01887.png,Tumor/tumor_01887.png,Tumor,validation
+tumor_01888.png,Tumor/tumor_01888.png,Tumor,validation
+tumor_01901.png,Tumor/tumor_01901.png,Tumor,validation
+tumor_01907.png,Tumor/tumor_01907.png,Tumor,validation
+tumor_01915.png,Tumor/tumor_01915.png,Tumor,validation
+tumor_01917.png,Tumor/tumor_01917.png,Tumor,validation
+tumor_01920.png,Tumor/tumor_01920.png,Tumor,validation
+tumor_01925.png,Tumor/tumor_01925.png,Tumor,validation
+tumor_01930.png,Tumor/tumor_01930.png,Tumor,validation
+tumor_01940.png,Tumor/tumor_01940.png,Tumor,validation
+tumor_01942.png,Tumor/tumor_01942.png,Tumor,validation
+tumor_01945.png,Tumor/tumor_01945.png,Tumor,validation
+tumor_01949.png,Tumor/tumor_01949.png,Tumor,validation
+tumor_01954.png,Tumor/tumor_01954.png,Tumor,validation
+tumor_01976.png,Tumor/tumor_01976.png,Tumor,validation
+tumor_01995.png,Tumor/tumor_01995.png,Tumor,validation
+tumor_01999.png,Tumor/tumor_01999.png,Tumor,validation
+tumor_02000.png,Tumor/tumor_02000.png,Tumor,validation
+tumor_02001.png,Tumor/tumor_02001.png,Tumor,validation
+tumor_02003.png,Tumor/tumor_02003.png,Tumor,validation
+tumor_02033.png,Tumor/tumor_02033.png,Tumor,validation
+tumor_02054.png,Tumor/tumor_02054.png,Tumor,validation
+tumor_02063.png,Tumor/tumor_02063.png,Tumor,validation
+tumor_02101.png,Tumor/tumor_02101.png,Tumor,validation
+tumor_02104.png,Tumor/tumor_02104.png,Tumor,validation
+tumor_02115.png,Tumor/tumor_02115.png,Tumor,validation
+tumor_02130.png,Tumor/tumor_02130.png,Tumor,validation
+tumor_02131.png,Tumor/tumor_02131.png,Tumor,validation
+tumor_02151.png,Tumor/tumor_02151.png,Tumor,validation
+tumor_02154.png,Tumor/tumor_02154.png,Tumor,validation
+tumor_02159.png,Tumor/tumor_02159.png,Tumor,validation
+tumor_02189.png,Tumor/tumor_02189.png,Tumor,validation
+tumor_02203.png,Tumor/tumor_02203.png,Tumor,validation
+tumor_02221.png,Tumor/tumor_02221.png,Tumor,validation
+tumor_02238.png,Tumor/tumor_02238.png,Tumor,validation
+tumor_02241.png,Tumor/tumor_02241.png,Tumor,validation
+tumor_02260.png,Tumor/tumor_02260.png,Tumor,validation
+tumor_02261.png,Tumor/tumor_02261.png,Tumor,validation
+tumor_02348.png,Tumor/tumor_02348.png,Tumor,validation
+tumor_02351.png,Tumor/tumor_02351.png,Tumor,validation
+tumor_02356.png,Tumor/tumor_02356.png,Tumor,validation
+tumor_02384.png,Tumor/tumor_02384.png,Tumor,validation
+tumor_02402.png,Tumor/tumor_02402.png,Tumor,validation
+tumor_02405.png,Tumor/tumor_02405.png,Tumor,validation
+tumor_02430.png,Tumor/tumor_02430.png,Tumor,validation
+tumor_02440.png,Tumor/tumor_02440.png,Tumor,validation
+tumor_02453.png,Tumor/tumor_02453.png,Tumor,validation
+tumor_02479.png,Tumor/tumor_02479.png,Tumor,validation
+tumor_02495.png,Tumor/tumor_02495.png,Tumor,validation
+tumor_02542.png,Tumor/tumor_02542.png,Tumor,validation
+tumor_02583.png,Tumor/tumor_02583.png,Tumor,validation
+tumor_02585.png,Tumor/tumor_02585.png,Tumor,validation
+tumor_02596.png,Tumor/tumor_02596.png,Tumor,validation
+tumor_02618.png,Tumor/tumor_02618.png,Tumor,validation
+tumor_02624.png,Tumor/tumor_02624.png,Tumor,validation
+tumor_02666.png,Tumor/tumor_02666.png,Tumor,validation
+tumor_02668.png,Tumor/tumor_02668.png,Tumor,validation
+tumor_02684.png,Tumor/tumor_02684.png,Tumor,validation
+tumor_02687.png,Tumor/tumor_02687.png,Tumor,validation
+tumor_02714.png,Tumor/tumor_02714.png,Tumor,validation
+tumor_02751.png,Tumor/tumor_02751.png,Tumor,validation
+tumor_02754.png,Tumor/tumor_02754.png,Tumor,validation
+tumor_02785.png,Tumor/tumor_02785.png,Tumor,validation
+tumor_02811.png,Tumor/tumor_02811.png,Tumor,validation
+tumor_02836.png,Tumor/tumor_02836.png,Tumor,validation
+tumor_02848.png,Tumor/tumor_02848.png,Tumor,validation
+tumor_02850.png,Tumor/tumor_02850.png,Tumor,validation
+tumor_02853.png,Tumor/tumor_02853.png,Tumor,validation
+tumor_02862.png,Tumor/tumor_02862.png,Tumor,validation
+tumor_02865.png,Tumor/tumor_02865.png,Tumor,validation
+tumor_02874.png,Tumor/tumor_02874.png,Tumor,validation
+tumor_02875.png,Tumor/tumor_02875.png,Tumor,validation
+tumor_02878.png,Tumor/tumor_02878.png,Tumor,validation
+tumor_02886.png,Tumor/tumor_02886.png,Tumor,validation
+tumor_02892.png,Tumor/tumor_02892.png,Tumor,validation
+tumor_02901.png,Tumor/tumor_02901.png,Tumor,validation
+tumor_02953.png,Tumor/tumor_02953.png,Tumor,validation
+tumor_02954.png,Tumor/tumor_02954.png,Tumor,validation
+tumor_02976.png,Tumor/tumor_02976.png,Tumor,validation
+tumor_02983.png,Tumor/tumor_02983.png,Tumor,validation
+tumor_02993.png,Tumor/tumor_02993.png,Tumor,validation
+tumor_03024.png,Tumor/tumor_03024.png,Tumor,validation
+tumor_03036.png,Tumor/tumor_03036.png,Tumor,validation
+tumor_03039.png,Tumor/tumor_03039.png,Tumor,validation
+tumor_03040.png,Tumor/tumor_03040.png,Tumor,validation
+tumor_03048.png,Tumor/tumor_03048.png,Tumor,validation
+tumor_03057.png,Tumor/tumor_03057.png,Tumor,validation
+tumor_03060.png,Tumor/tumor_03060.png,Tumor,validation
