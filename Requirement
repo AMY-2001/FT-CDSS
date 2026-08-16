@@ -8,3 +8,13 @@ NumPy:        2.0.2
 Pandas:       2.2.2
 Scikit-learn: 1.6.1
 Pillow:       11.3.0
+
+
+Raspberry Pi 4 Model B specifications:
+
+OS: Linux 6.12.47+rpt-rpi-v8
+Architecture:    aarch64
+Python version:  3.13.5
+PyTorch version: 2.9.1+cpu
+CUDA available:  False
+
