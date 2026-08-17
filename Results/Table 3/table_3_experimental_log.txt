@@ -1,0 +1,175 @@
+TABLE 3 — FAULT-TOLERANCE EVALUATION LOGS
+============================================================
+
+These logs contain the outputs used to generate Table 3.
+All evaluations were performed on the complete test sets under the
+specified fault-injection conditions.
+
+Definitions
+-----------
+TMR accuracy = (Correct TMR predictions / Total samples) × 100
+
+DMR accuracy = ((Total agreements - False agreements) /
+                Total samples) × 100
+
+Fault masking coverage = (Post-fault accuracy / Pre-fault accuracy) × 100
+
+SDC rate = (Incorrect undetected agreements / Total inferences under fault) × 100
+
+An SDC is an incorrect final agreement/majority that is not detected by
+the redundancy mechanism. For DMR, it is an incorrect agreement between
+the two models. For TMR, it is an incorrect majority decision. For Hybrid,
+it is an incorrect agreement in the initial DMR path that is not detected and does not invoke the cold spare.
+
+___________________________________________________________
+COLON CANCER
+___________________________________________________________
+
+Total test samples: 1000
+
+-------------------------
+DMR
+-------------------------
+Agreements: 872
+Disagreements: 128
+Correct agreements: 871
+False agreements: 1
+
+DMR accuracy:
+((872 - 1) / 1000) × 100 = 87.10%
+
+SDC cases: 1 (the case where the two models agree on false output = false agreement)
+SDC rate: 0.10%
+
+A:D ratio: 872:128
+
+-------------------------
+TMR
+-------------------------
+Correct TMR predictions: 998
+Incorrect TMR predictions: 2
+
+TMR accuracy:
+(998 / 1000) × 100 = 99.80%
+
+SDC cases: 1 ( this is a case where the three models agree on faulty output)
+SDC rate: 0.10%
+
+-------------------------
+Hybrid
+-------------------------
+DMR path used: 872
+TMR path used: 128
+
+False DMR agreements: 1 ( this is the SDC case)
+False TMR agreements: 1
+Total false agreements: 2
+
+Final accuracy: 99.80%
+
+SDC cases: 1
+SDC rate: 0.10%
+
+A:D ratio: 872:128
+
+============================================================
+BRAIN TUMOR
+============================================================
+
+Total test samples: 470
+
+-------------------------
+DMR
+-------------------------
+Agreements: 371
+Disagreements: 99
+Correct agreements: 369
+False agreements: 2
+
+DMR accuracy:
+((371 - 2) / 470) × 100 = 78.51%
+
+SDC cases: 2
+SDC rate: 0.43%
+
+A:D ratio: 371:99
+
+-------------------------
+TMR
+-------------------------
+Correct TMR predictions: 468
+Incorrect TMR predictions: 2
+
+TMR accuracy:
+(468 / 470) × 100 = 99.57%
+
+SDC cases: 2
+SDC rate: 0.43%
+
+-------------------------
+Hybrid
+-------------------------
+DMR path used: 371
+TMR path used: 99
+
+False DMR agreements: 2
+False TMR agreements: 0
+Total false agreements: 2
+
+Final accuracy: 99.57%
+
+SDC cases: 2
+SDC rate: 0.43%
+
+A:D ratio: 371:99
+
+============================================================
+PNEUMONIA
+============================================================
+
+Total test samples: 540
+
+-------------------------
+DMR
+-------------------------
+Agreements: 428
+Disagreements: 112
+Correct agreements: 423
+False agreements: 5
+
+DMR accuracy:
+((428 - 5) / 540) × 100 = 78.33%
+
+SDC cases: 5
+SDC rate: 0.93%
+
+A:D ratio: 428:112
+
+-------------------------
+TMR
+-------------------------
+Correct TMR predictions: 527
+Incorrect TMR predictions: 13
+
+TMR accuracy:
+(527 / 540) × 100 = 97.59%
+
+SDC cases: 5
+SDC rate: 0.93%
+
+-------------------------
+Hybrid
+-------------------------
+DMR path used: 428
+TMR path used: 112
+
+False DMR agreements: 5
+False TMR agreements: 8
+Total false agreements: 13
+
+Final accuracy: 97.59%
+
+SDC cases: 5
+SDC rate: 0.93%
+
+A:D ratio: 428:112

@@ -1,0 +1,246 @@
+TABLE 3 — FAULT CASES / SDC CASES
+============================================================
+
+This file records the specific incorrect agreement or majority cases
+identified during the fault-tolerance evaluations reported in Table 3.
+
+============================================================
+COLON CANCER
+============================================================
+
+DMR — False Agreement / SDC
+Index: 934 / colonca4392.jpeg 
+Predictions: (1, 1)
+Ground truth: 0
+DMR decision: 1
+
+TMR — Incorrect Majority / SDC
+Index: 934 / colonca4392.jpeg
+Predictions: (1, 1, 1)
+Ground truth: 0
+TMR decision: 1
+
+TMR — Incorrect Majority (not SDC)
+Index: 694 / colonn2512.jpeg 
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Hybrid — False DMR Agreement / SDC
+Index: 387 / colonca4392.jpeg 
+Predictions: (1, 1)
+Ground truth: 0
+Decision: 1
+
+Hybrid — False TMR Agreement
+Index: 669 / colonn2512.jpeg 
+Predictions: (0, 1, 0)
+Ground truth: 1
+Decision: 0
+
+
+============================================================
+BRAIN TUMOR
+============================================================
+
+DMR — False Agreement / SDC
+Index: 107 / tumor_01616.png 
+Predictions: (0, 0)
+Ground truth: 1
+DMR decision: 0
+
+Index: 194 / tumor_02943.png 
+Predictions: (0, 0)
+Ground truth: 1
+DMR decision: 0
+
+TMR — Incorrect Majority / SDC
+Index: 107 / tumor_01616.png
+Predictions: (0, 0, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 194 / tumor_02943.png 
+Predictions: (0, 0, 0)
+Ground truth: 1
+TMR decision: 0
+
+Hybrid — False DMR Agreements / SDC
+Index: 371 / tumor_01616.png 
+Predictions: (0, 0)
+Ground truth: 1
+DMR decision: 0
+
+Index: 463 / tumor_02943.png 
+Predictions: (0, 0)
+Ground truth: 1
+DMR decision: 0
+
+Hybrid — False TMR Agreements
+None.
+
+
+============================================================
+PNEUMONIA
+============================================================
+
+DMR — False Agreement / SDC
+Index: 84 / NORMAL_1529.png 
+Predictions: (1, 1)
+Ground truth: 0
+DMR decision: 1
+
+Index: 102 /NORMAL_1508.png
+Predictions: (1, 1)
+Ground truth: 0
+DMR decision: 1
+
+Index: 172 / NORMAL_1519.png 
+Predictions: (1, 1)
+Ground truth: 0
+DMR decision: 1
+
+Index: 222 /NORMAL_1509.png 
+Predictions: (1, 1)
+Ground truth: 0
+DMR decision: 1
+
+Index: 261 /PNEUMONIA_806.png 
+Predictions: (0, 0)
+Ground truth: 1
+DMR decision: 0
+
+TMR — Incorrect Majority / SDC
+Index: 84 /NORMAL_1529.png 
+Predictions: (1, 1, 1)
+Ground truth: 0
+TMR decision: 1
+
+Index: 102 /NORMAL_1508.png
+Predictions: (1, 1, 1)
+Ground truth: 0
+TMR decision: 1
+
+Index: 172 / NORMAL_1519.png 
+Predictions: (1, 1, 1)
+Ground truth: 0
+TMR decision: 1
+
+Index: 222 /NORMAL_1509.png
+Predictions: (1, 1, 1)
+Ground truth: 0
+TMR decision: 1
+
+Index: 261 /PNEUMONIA_806.png
+Predictions: (0, 0, 0)
+Ground truth: 1
+TMR decision: 0
+
+TMR — Incorrect Majority (not SDC)
+Index: 232 / PNEUMONIA_803.png 
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 320 /PNEUMONIA_975.png
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 322 / PNEUMONIA_829.png
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 350 / PNEUMONIA_757.png
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 383 / PNEUMONIA_756.png
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 470/ PNEUMONIA_970.png
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 489 / PNEUMONIA_801.png
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 511 / PNEUMONIA_822.png
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Hybrid — False DMR Agreements / SDC
+Index: 74 / NORMAL_1508.png 
+Predictions: (1, 1)
+Ground truth: 0
+DMR decision: 1
+
+Index: 75 / NORMAL_1509.png 
+Predictions: (1, 1)
+Ground truth: 0
+DMR decision: 1
+
+Index: 76 / NORMAL_1519.png 
+Predictions: (1, 1)
+Ground truth: 0
+DMR decision: 1
+
+Index: 79 / NORMAL_1529.png 
+Predictions: (1, 1)
+Ground truth: 0
+DMR decision: 1
+
+Index: 326 / PNEUMONIA_806.png 
+Predictions: (0, 0)
+Ground truth: 1
+DMR decision: 0
+
+Hybrid — False TMR Agreements
+Index: 270 / PNEUMONIA_756.png 
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 271 / PNEUMONIA_757.png 
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 321 / PNEUMONIA_801.png 
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 323 / PNEUMONIA_803.png
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 344 / PNEUMONIA_822.png 
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 351 / PNEUMONIA_829.png 
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 508 / PNEUMONIA_970.png 
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
+Index: 513 / PNEUMONIA_975.png 
+Predictions: (0, 1, 0)
+Ground truth: 1
+TMR decision: 0
+
