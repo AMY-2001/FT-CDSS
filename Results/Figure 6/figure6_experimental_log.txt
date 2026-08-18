@@ -1,0 +1,118 @@
+FIGURE 6 — WORKLOAD SCALABILITY / AVERAGE SPEEDUP LOG
+_________________________________________________________________________
+
+This log contains the sequential and parallel execution times used to generate Figure 6.
+
+The configurations were evaluated using a combined workload of 2010 test images consisting of:
+
+- 1000 colon cancer images
+- 470 brain tumor MRI images
+- 540 pneumonia X-ray images
+
+Total: 2010 images
+
+The evaluated workloads were:
+1, 10, 100, 500, 1000, 1500, and 2010 images.
+
+For each workload, the sequential and parallel execution times were recorded on the Raspberry Pi 4 Model B.
+
+Average speedup is calculated using Eq. (7):
+
+S_avg = (1/N) × Σ(T_seq,i / T_par,i)
+
+where:
+- N = 7 workload sizes
+- T_seq,i = sequential execution time for workload i
+- T_par,i = parallel execution time for workload i
+
+The average speedup reported in Figure 6 is the arithmetic mean
+of the seven individual speedups.
+
+
+
+BASELINE
+__________________________________________________________
+
+Workload | Sequential (s) | Parallel (s) | Speedup
+------------------------------------------------------------
+1        | 0.8484         | 1.9806       | 0.4283
+10       | 5.0515         | 4.0049       | 1.2613
+100      | 39.6568        | 20.9571      | 1.8923
+500      | 191.2880       | 91.8047      | 2.0834
+1000     | 380.8019       | 179.1212     | 2.1254
+1500     | 570.3315       | 266.7572     | 2.1371
+2010     | 767.9200       | 410.2212     | 1.8720
+
+Average speedup (7 workloads):
+1.6857 × (or 1.69)
+
+
+DMR
+__________________________________________________________
+
+Workload | Sequential (s) | Parallel (s) | Speedup
+------------------------------------------------------------
+1        | 0.7321         | 1.8708       | 0.3913
+10       | 4.2848         | 3.6149       | 1.1853
+100      | 29.4817        | 16.4200      | 1.7955
+500      | 141.6949       | 76.6824      | 1.8486
+1000     | 281.7885       | 151.7281     | 1.8572
+1500     | 422.3419       | 226.7535     | 1.8628
+2010     | 564.3300       | 302.0736     | 1.8681
+
+Average speedup (7 workloads):
+1.5441 ×
+
+
+TMR
+__________________________________________________________
+Workload | Sequential (s) | Parallel (s) | Speedup
+------------------------------------------------------------
+1        | 0.9749         | 2.1988       | 0.4434
+10       | 6.1451         | 5.0933       | 1.2065
+100      | 41.1227        | 20.8543      | 1.9719
+500      | 197.6185       | 90.3016      | 2.1889
+1000     | 392.5212       | 175.1004      | 2.2417
+1500     | 587.7716       | 263.3066      | 2.2321
+2010     | 794.6100       | 374.7015      | 2.1206
+
+Average speedup (7 workloads):
+1.7722 ×
+
+
+HYBRID
+__________________________________________________________
+
+Workload | Sequential (s) | Parallel (s) | Speedup
+------------------------------------------------------------
+1        | 0.8571         | 2.0390       | 0.4203
+10       | 5.1823         | 4.3935       | 1.1796
+100      | 32.2029        | 17.7270      | 1.8165
+500      | 150.8570       | 77.2074      | 1.9530
+1000     | 300.1920       | 152.7792      | 1.9649
+1500     | 451.1008       | 228.5938      | 1.9734
+2010     | 608.2200        | 303.4733      | 2.0042
+
+Average speedup (7 workloads):
+1.6160 × (or 1.62)
+
+
+============================================================
+SUMMARY
+============================================================
+
+Configuration | Average Speedup
+--------------------------------
+Baseline      | 1.6857 ×
+DMR           | 1.5441 ×
+TMR           | 1.7722 ×
+Hybrid        | 1.6160 ×
+
+
+NOTE
+----
+The average speedup is calculated across all seven workload sizes,
+including the single-image workload. Therefore, the average speedup
+is not necessarily equal to the speedup obtained using only the
+complete 2010-image workload.
+
