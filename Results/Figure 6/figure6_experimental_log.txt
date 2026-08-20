@@ -41,7 +41,7 @@ Workload | Sequential (s) | Parallel (s) | Speedup
 500      | 191.2880       | 91.8047      | 2.0834
 1000     | 380.8019       | 179.1212     | 2.1254
 1500     | 570.3315       | 266.7572     | 2.1371
-2010     | 767.9200       | 410.2212     | 1.8720
+2010     | 767.9200       | 410.2212     | 1.8719
 
 Average speedup (7 workloads):
 1.6857 × (or 1.69)
@@ -97,9 +97,9 @@ Average speedup (7 workloads):
 1.6160 × (or 1.62)
 
 
-============================================================
+#################################################################
 SUMMARY
-============================================================
+#################################################################
 
 Configuration | Average Speedup
 --------------------------------
@@ -111,8 +111,7 @@ Hybrid        | 1.6160 ×
 
 NOTE
 ----
-The average speedup is calculated across all seven workload sizes,
-including the single-image workload. Therefore, the average speedup
-is not necessarily equal to the speedup obtained using only the
-complete 2010-image workload.
+1. The average speedup is calculated across all seven workload sizes, including the single-image workload. Therefore, the average speedup
+is not necessarily equal to the speedup obtained using only the complete 2010-image workload.
+2. Values can be rounded in the figure since it display only 3 decimal values.
 
