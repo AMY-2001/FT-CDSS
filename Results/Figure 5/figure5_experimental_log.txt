@@ -1,5 +1,5 @@
 FIGURE 5 — PIPELINE PERFORMANCE EXPERIMENTAL LOG
-==================================================================
+_______________________________________________________________________
 
 Figure 5 reports performance under sequential and parallel execution:
 (a) speedup, (b) throughput, (c) inference time, and (d) parallel fraction.
@@ -18,9 +18,8 @@ Inference time = Execution time / Number of samples
 Parallel fraction = (1 - 1/Speedup) / (1 - 1/N)
 where N = 4 CPU cores.
 
-------------------------------------------------------------------
 BASELINE
-------------------------------------------------------------------
+_______________________________________________________________________
 Sequential total execution time: 767.9200 s
 Parallel total execution time:   410.2212 s
 
@@ -31,9 +30,8 @@ Sequential inference time: 767.9200 / 2010 = 0.382 s/image
 Parallel inference time:   410.2212 / 2010 = 0.204 s/image
 Parallel fraction: (1 - 1/1.871) / (1 - 1/4) = 62.070%
 
-------------------------------------------------------------------
 DMR
-------------------------------------------------------------------
+_______________________________________________________________________
 Sequential total execution time: 564.3300 s
 Parallel total execution time:   302.0736 s
 
@@ -44,9 +42,8 @@ Sequential inference time: 564.3300 / 2010 = 0.280 s/image
 Parallel inference time:   302.0736 / 2010 = 0.150 s/image
 Parallel fraction: (1 - 1/1.868) / (1 - 1/4) = 61.955%
 
-------------------------------------------------------------------
 TMR
-------------------------------------------------------------------
+_______________________________________________________________________
 Sequential total execution time: 794.6100 s
 Parallel total execution time:   374.7015 s
 
@@ -57,9 +54,8 @@ Sequential inference time: 794.6100 / 2010 = 0.395 s/image
 Parallel inference time:   374.7015 / 2010 = 0.186 s/image
 Parallel fraction: (1 - 1/2.120) / (1 - 1/4) = 70.440%
 
-------------------------------------------------------------------
 HYBRID
-------------------------------------------------------------------
+_______________________________________________________________________
 Sequential total execution time: 608.2200 s
 Parallel total execution time:   303.4733 s
 
@@ -70,9 +66,9 @@ Sequential inference time: 608.2200 / 2010 = 0.302 s/image
 Parallel inference time:   303.4733 / 2010 = 0.150 s/image
 Parallel fraction: (1 - 1/2.004) / (1 - 1/4) = 66.799%
 
-==================================================================
+#################################################################
 FIGURE 5 DERIVED VALUES
-==================================================================
+#################################################################
 
 Configuration | Speedup| Seq. throughput| Par. throughput| Seq. time/image | Par. time/image |  Parallel fraction
 Baseline     |   1.872 |          2.617 |          4.899 |           0.382 |           0.204 |            62.070%
@@ -80,6 +76,5 @@ DMR          |   1.868 |          3.561 |          6.654 |           0.280 |    
 TMR          |   2.121 |          2.529 |          5.364 |           0.395 |           0.186 |            70.440%
 Hybrid       |   2.004 |          3.304 |          6.623 |           0.302 |           0.150 |            66.799%
 
-The sequential and parallel execution times are the primary experimental
-measurements. The speedup, throughput, inference-time, and parallel-fraction
+The sequential and parallel execution times are the primary experimental measurements. The speedup, throughput, inference-time, and parallel-fraction
 values are derived from these measurements using the definitions above.
