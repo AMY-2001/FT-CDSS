@@ -1,9 +1,8 @@
 TABLE 3 — FAULT-TOLERANCE EVALUATION LOGS
-============================================================
+_______________________________________________________________________
 
 These logs contain the outputs used to generate Table 3.
-All evaluations were performed on the complete test sets under the
-specified fault-injection conditions.
+All evaluations were performed on the complete test sets under the specified fault-injection conditions.
 
 Definitions
 -----------
@@ -27,7 +26,7 @@ ___________________________________________________________
 
 Total test samples: 1000
 
--------------------------
+
 DMR
 -------------------------
 Agreements: 872
@@ -43,7 +42,7 @@ SDC rate: 0.10%
 
 A:D ratio: 872:128
 
--------------------------
+
 TMR
 -------------------------
 Correct TMR predictions: 998
@@ -55,7 +54,6 @@ TMR accuracy:
 SDC cases: 1 ( this is a case where the three models agree on faulty output)
 SDC rate: 0.10%
 
--------------------------
 Hybrid
 -------------------------
 DMR path used: 872
@@ -72,13 +70,13 @@ SDC rate: 0.10%
 
 A:D ratio: 872:128
 
-============================================================
+_______________________________________________________________________
 BRAIN TUMOR
-============================================================
+_______________________________________________________________________
 
 Total test samples: 470
 
--------------------------
+
 DMR
 -------------------------
 Agreements: 371
@@ -94,7 +92,6 @@ SDC rate: 0.43%
 
 A:D ratio: 371:99
 
--------------------------
 TMR
 -------------------------
 Correct TMR predictions: 468
@@ -106,7 +103,6 @@ TMR accuracy:
 SDC cases: 2
 SDC rate: 0.43%
 
--------------------------
 Hybrid
 -------------------------
 DMR path used: 371
@@ -123,13 +119,13 @@ SDC rate: 0.43%
 
 A:D ratio: 371:99
 
-============================================================
+_______________________________________________________________________
 PNEUMONIA
-============================================================
+_______________________________________________________________________
+
 
 Total test samples: 540
 
--------------------------
 DMR
 -------------------------
 Agreements: 428
@@ -145,7 +141,6 @@ SDC rate: 0.93%
 
 A:D ratio: 428:112
 
--------------------------
 TMR
 -------------------------
 Correct TMR predictions: 527
@@ -157,7 +152,6 @@ TMR accuracy:
 SDC cases: 5
 SDC rate: 0.93%
 
--------------------------
 Hybrid
 -------------------------
 DMR path used: 428
