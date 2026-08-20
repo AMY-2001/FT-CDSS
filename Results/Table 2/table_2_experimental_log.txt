@@ -1,12 +1,11 @@
 TABLE 2 EXPERIMENTAL LOG
-========================
+------------------------
 
 This log records the fault-injection configuration and the resulting
 baseline and post-injection accuracies used to generate Table 2.
 
-------------------------------------------------------------
 Experiment 1: Colon Cancer – RN18_p
-------------------------------------------------------------
+_______________________________________________________________________
 Flatten vector size: 153
 Error injection percentage: 20%
 Targeted bits: 6, 7
@@ -15,9 +14,9 @@ Fault type: DNU
 Baseline accuracy: 99.80%
 Post-injection accuracy: 87.20%
 
-------------------------------------------------------------
+
 Experiment 2: Brain Tumor – RN18_p
-------------------------------------------------------------
+_______________________________________________________________________
 Flatten vector size: 256
 Error injection percentage: 30%
 Targeted bits: 3, 4, 5, 6
@@ -26,9 +25,8 @@ Fault type: QNU
 Baseline accuracy: 99.57%
 Post-injection accuracy: 78.51%
 
-------------------------------------------------------------
 Experiment 3: Pneumonia – RN18_p
-------------------------------------------------------------
+_______________________________________________________________________
 Flatten vector size: 256
 Error injection percentage: 45%
 Targeted bits: 3, 4, 5, 6
