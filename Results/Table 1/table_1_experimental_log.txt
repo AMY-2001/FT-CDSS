@@ -1,5 +1,5 @@
 TABLE 1 – MODEL PRUNING, QUANTIZATION, AND ACCURACY RESULTS
-===============================================================
+_______________________________________________________________________
 
 GENERAL INFORMATION
 --------------------
@@ -12,8 +12,8 @@ FLOPs are obtained from the reported total mult-add operations.
 FLOPs = Total mult-add operations × 2.
 
 
-1. MODEL SIZE AFTER PRUNING
----------------------------
+MODEL SIZE AFTER PRUNING
+------------------------
 
 Colon cancer:
 - RN18: 4.23 MB (70% pruning)
@@ -30,17 +30,16 @@ X-ray:
 - RGY: 10.8 MB (30% pruning)
 - MNV2: 4.60 MB (50% pruning)
 
-
-2. ORIGINAL MULT-ADD OPERATIONS
--------------------------------
+ORIGINAL MULT-ADD OPERATIONS
+----------------------------
 
 - RN18: 1.81 GB
 - RGY: 833.21 MB
 - MNV2: 299.69 MB
 
 
-3. MULT-ADD OPERATIONS AFTER PRUNING
-------------------------------------
+MULT-ADD OPERATIONS AFTER PRUNING
+---------------------------------
 
 Colon cancer:
 - RN18: 377.87 MB (70% pruning)
@@ -58,8 +57,8 @@ X-ray:
 - MNV2: 160.62 MB (50% pruning)
 
 
-4. MODEL SIZE AFTER QUANTIZATION
---------------------------------
+MODEL SIZE AFTER QUANTIZATION
+-----------------------------
 
 Colon cancer:
 - RN18: 1.10 MB
@@ -77,8 +76,8 @@ X-ray:
 - MNV2: 1.19 MB
 
 
-5. ACCURACY
------------
+ACCURACY
+--------
 
 Colon cancer:
 - RN18: 99.80%
@@ -96,8 +95,8 @@ X-ray:
 - MNV2: 95.37%
 
 
-6. CLASSIFIER MODEL
--------------------
+CLASSIFIER MODEL
+-----------------
 
 Original size:
 - 24.5 MB
@@ -118,11 +117,11 @@ Accuracy:
 - 100.00%
 
 
-7. REPRODUCTION NOTES
----------------------
+NOTES
+------
 
 Pruning ratio:
-The pruning ratio is specified manually in the pruning configuration/code for each model and dataset.
+The pruning ratio is specified manually in the pruning configuration/code for each model and dataset (FT-CDSS/pruninig notebooks).
 
 FLOPs:
 FLOPs are calculated as:
