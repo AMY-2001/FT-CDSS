@@ -59,10 +59,10 @@ Main columns:
   Ground-truth class label assigned to the image.
 
 - model_1_prediction:
-  Prediction produced by the first CNN replica.
+  Prediction produced by the first CNN replica (fault-free/prestine model).
 
 - model_2_prediction:
-  Prediction produced by the second CNN replica.
+  Prediction produced by the second CNN replica (the faulty model).
 
 - model_3_prediction:
   Prediction produced by the third CNN replica.
